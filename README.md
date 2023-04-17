@@ -8,6 +8,9 @@ This is a web application that utilizes the Yelp Fusion API to provide restauran
 - Yelp Fusion API key
 - Required Python packages: requests, json, wordcloud, matplotlib, flask
 
+## Data Structure
+The application utilizes a graph data structure to represent the categories of the businesses. The graph is implemented using a dictionary in the main.py file, where each key is a category and the value is a set of businesses that belong to that category. When the user selects a category from the drop-down menu, the application retrieves the businesses belonging to that category from the graph and displays them to the user.
+
 ## Usage
 
 1. Obtain a Yelp Fusion API key from https://www.yelp.com/developers.
@@ -17,11 +20,3 @@ This is a web application that utilizes the Yelp Fusion API to provide restauran
 5. Enter a location to retrieve recommendations from Yelp Fusion API.
 6. Filter the businesses based on categories by selecting a category from the drop-down menu and clicking "Filter".
 7. View the word cloud of a business by clicking "View Wordcloud" next to the business name.
-
-## Credits
-
-- This project is built with Flask, a Python web framework.
-- The Yelp Fusion API is provided by Yelp.
-- The wordcloud generation is powered by the wordcloud package.
-- The application uses the Matplotlib library for generating and displaying plots.
-- The HTML templates are based on the Flask framework.
