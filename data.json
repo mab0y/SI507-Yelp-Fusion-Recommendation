@@ -1,115 +1,21 @@
 {
     "businesses": [
         {
-            "id": "uTMqhmpgfpDMLN3W3YvMeQ",
-            "alias": "frita-batidos-ann-arbor",
-            "name": "Frita Batidos",
-            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ZbbAL52xtE-3WvhGr74Irw/o.jpg",
+            "id": "z0zaCVA-p_5xTsyUZrmR0g",
+            "alias": "republique-los-angeles-6",
+            "name": "Republique",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Xy6oJ25E2QUzw_zsBD-dhA/o.jpg",
             "is_closed": false,
-            "url": "https://www.yelp.com/biz/frita-batidos-ann-arbor?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
-            "review_count": 2131,
+            "url": "https://www.yelp.com/biz/republique-los-angeles-6?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
+            "review_count": 6809,
             "categories": [
                 {
-                    "alias": "cuban",
-                    "title": "Cuban"
+                    "alias": "french",
+                    "title": "French"
                 },
                 {
-                    "alias": "burgers",
-                    "title": "Burgers"
-                }
-            ],
-            "rating": 4.5,
-            "coordinates": {
-                "latitude": 42.2803651,
-                "longitude": -83.7491532
-            },
-            "transactions": [
-                "pickup",
-                "delivery"
-            ],
-            "price": "$$",
-            "location": {
-                "address1": "117 W Washington St",
-                "address2": "",
-                "address3": "",
-                "city": "Ann Arbor",
-                "zip_code": "48104",
-                "country": "US",
-                "state": "MI",
-                "display_address": [
-                    "117 W Washington St",
-                    "Ann Arbor, MI 48104"
-                ]
-            },
-            "phone": "+17347612882",
-            "display_phone": "(734) 761-2882",
-            "distance": 1243.5784044949269
-        },
-        {
-            "id": "fQ8c9S6jitKS5RT6S-ziGA",
-            "alias": "zingermans-delicatessen-ann-arbor-2",
-            "name": "Zingerman's Delicatessen",
-            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ACNDK2N4bxKpOccxqV2Rng/o.jpg",
-            "is_closed": false,
-            "url": "https://www.yelp.com/biz/zingermans-delicatessen-ann-arbor-2?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
-            "review_count": 2474,
-            "categories": [
-                {
-                    "alias": "delis",
-                    "title": "Delis"
-                },
-                {
-                    "alias": "salad",
-                    "title": "Salad"
-                },
-                {
-                    "alias": "sandwiches",
-                    "title": "Sandwiches"
-                }
-            ],
-            "rating": 4.0,
-            "coordinates": {
-                "latitude": 42.2844740041972,
-                "longitude": -83.7452775306885
-            },
-            "transactions": [
-                "pickup",
-                "delivery"
-            ],
-            "price": "$$",
-            "location": {
-                "address1": "422 Detroit St",
-                "address2": "",
-                "address3": "",
-                "city": "Ann Arbor",
-                "zip_code": "48104",
-                "country": "US",
-                "state": "MI",
-                "display_address": [
-                    "422 Detroit St",
-                    "Ann Arbor, MI 48104"
-                ]
-            },
-            "phone": "+17346633354",
-            "display_phone": "(734) 663-3354",
-            "distance": 1396.8559806865428
-        },
-        {
-            "id": "4REtzXpQYy8dVev8RjWbSQ",
-            "alias": "mani-osteria-and-bar-ann-arbor",
-            "name": "Mani Osteria & Bar",
-            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/LJscB4Lei-2m7anPJefnEg/o.jpg",
-            "is_closed": false,
-            "url": "https://www.yelp.com/biz/mani-osteria-and-bar-ann-arbor?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
-            "review_count": 947,
-            "categories": [
-                {
-                    "alias": "italian",
-                    "title": "Italian"
-                },
-                {
-                    "alias": "pizza",
-                    "title": "Pizza"
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
                 },
                 {
                     "alias": "cocktailbars",
@@ -118,844 +24,1404 @@
             ],
             "rating": 4.0,
             "coordinates": {
-                "latitude": 42.2795793749763,
-                "longitude": -83.744244702611
+                "latitude": 34.06412,
+                "longitude": -118.34386
             },
             "transactions": [
-                "delivery"
+                "delivery",
+                "pickup"
             ],
             "price": "$$",
             "location": {
-                "address1": "341 E Liberty St",
+                "address1": "624 S La Brea Ave",
                 "address2": "",
                 "address3": "",
-                "city": "Ann Arbor",
-                "zip_code": "48104",
+                "city": "Los Angeles",
+                "zip_code": "90036",
                 "country": "US",
-                "state": "MI",
+                "state": "CA",
                 "display_address": [
-                    "341 E Liberty St",
-                    "Ann Arbor, MI 48104"
+                    "624 S La Brea Ave",
+                    "Los Angeles, CA 90036"
                 ]
             },
-            "phone": "+17347696700",
-            "display_phone": "(734) 769-6700",
-            "distance": 886.1305202471954
+            "phone": "+13103626115",
+            "display_phone": "(310) 362-6115",
+            "distance": 2091.8037173164244
         },
         {
-            "id": "W4WNypFs--aQfpG0V5gsxQ",
-            "alias": "blank-slate-creamery-ann-arbor",
-            "name": "Blank Slate Creamery",
-            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/mmhbY2GLBKfMxGQjw8ITHA/o.jpg",
+            "id": "sXdOBghhw-ZU9S-1HxVZVA",
+            "alias": "bacari-silverlake-los-angeles-2",
+            "name": "Bacari Silverlake",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/U00R-a50WZv8YW9u5-nJjw/o.jpg",
             "is_closed": false,
-            "url": "https://www.yelp.com/biz/blank-slate-creamery-ann-arbor?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
-            "review_count": 530,
+            "url": "https://www.yelp.com/biz/bacari-silverlake-los-angeles-2?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
+            "review_count": 2066,
             "categories": [
                 {
-                    "alias": "icecream",
-                    "title": "Ice Cream & Frozen Yogurt"
-                }
-            ],
-            "rating": 4.5,
-            "coordinates": {
-                "latitude": 42.279645,
-                "longitude": -83.751305
-            },
-            "transactions": [],
-            "price": "$$",
-            "location": {
-                "address1": "300 W Liberty St",
-                "address2": "",
-                "address3": "",
-                "city": "Ann Arbor",
-                "zip_code": "48103",
-                "country": "US",
-                "state": "MI",
-                "display_address": [
-                    "300 W Liberty St",
-                    "Ann Arbor, MI 48103"
-                ]
-            },
-            "phone": "+17349225383",
-            "display_phone": "(734) 922-5383",
-            "distance": 1322.7724159747374
-        },
-        {
-            "id": "Fv2VLzVj9ATLcTbFehTDjg",
-            "alias": "savas-ann-arbor",
-            "name": "Sava's",
-            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/FZHW89q9xdE_FHCkUSOjHg/o.jpg",
-            "is_closed": false,
-            "url": "https://www.yelp.com/biz/savas-ann-arbor?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
-            "review_count": 1277,
-            "categories": [
-                {
-                    "alias": "bars",
-                    "title": "Bars"
+                    "alias": "mediterranean",
+                    "title": "Mediterranean"
                 },
                 {
                     "alias": "breakfast_brunch",
                     "title": "Breakfast & Brunch"
                 },
                 {
-                    "alias": "tradamerican",
-                    "title": "American (Traditional)"
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
                 }
             ],
-            "rating": 4.0,
+            "rating": 4.5,
             "coordinates": {
-                "latitude": 42.279605,
-                "longitude": -83.7409649
+                "latitude": 34.09031981540568,
+                "longitude": -118.2775804
             },
             "transactions": [
-                "delivery"
+                "delivery",
+                "pickup"
             ],
-            "price": "$$",
             "location": {
-                "address1": "216 S State St",
-                "address2": "",
+                "address1": "3626 Sunset Blvd",
+                "address2": null,
                 "address3": "",
-                "city": "Ann Arbor",
-                "zip_code": "48104",
+                "city": "Los Angeles",
+                "zip_code": "90026",
                 "country": "US",
-                "state": "MI",
+                "state": "CA",
                 "display_address": [
-                    "216 S State St",
-                    "Ann Arbor, MI 48104"
+                    "3626 Sunset Blvd",
+                    "Los Angeles, CA 90026"
                 ]
             },
-            "phone": "+17346232233",
-            "display_phone": "(734) 623-2233",
-            "distance": 773.1837220520521
+            "phone": "+13234107304",
+            "display_phone": "(323) 410-7304",
+            "distance": 5136.80894073494
         },
         {
-            "id": "ZJVhCAjBeRlzLhgRVVJD5Q",
-            "alias": "jolly-pumpkin-cafe-and-brewery-ann-arbor-8",
-            "name": "Jolly Pumpkin Cafe & Brewery",
-            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/u-OVtnNrI9EFW5r51inNbw/o.jpg",
+            "id": "K-Fbh2WCHlqR56H9TnfpNA",
+            "alias": "perch-los-angeles",
+            "name": "Perch",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/CbKJ-NKAEWmRG-p6WNqn5A/o.jpg",
             "is_closed": false,
-            "url": "https://www.yelp.com/biz/jolly-pumpkin-cafe-and-brewery-ann-arbor-8?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
-            "review_count": 1007,
+            "url": "https://www.yelp.com/biz/perch-los-angeles?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
+            "review_count": 9723,
             "categories": [
                 {
-                    "alias": "pubs",
-                    "title": "Pubs"
+                    "alias": "lounges",
+                    "title": "Lounges"
                 },
                 {
-                    "alias": "breweries",
-                    "title": "Breweries"
+                    "alias": "french",
+                    "title": "French"
                 },
                 {
-                    "alias": "tradamerican",
-                    "title": "American (Traditional)"
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
                 }
             ],
             "rating": 4.0,
             "coordinates": {
-                "latitude": 42.279168,
-                "longitude": -83.748462
+                "latitude": 34.04897,
+                "longitude": -118.2514
             },
             "transactions": [
-                "delivery"
-            ],
-            "price": "$$",
-            "location": {
-                "address1": "311 S Main St",
-                "address2": "",
-                "address3": "",
-                "city": "Ann Arbor",
-                "zip_code": "48104",
-                "country": "US",
-                "state": "MI",
-                "display_address": [
-                    "311 S Main St",
-                    "Ann Arbor, MI 48104"
-                ]
-            },
-            "phone": "+17349132730",
-            "display_phone": "(734) 913-2730",
-            "distance": 1100.525168959371
-        },
-        {
-            "id": "yNIYH9041m1JEyRS-N_LNw",
-            "alias": "aventura-ann-arbor",
-            "name": "Aventura",
-            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/YeASIZV__mfk-Yj-2FEokw/o.jpg",
-            "is_closed": false,
-            "url": "https://www.yelp.com/biz/aventura-ann-arbor?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
-            "review_count": 852,
-            "categories": [
-                {
-                    "alias": "tapas",
-                    "title": "Tapas Bars"
-                },
-                {
-                    "alias": "spanish",
-                    "title": "Spanish"
-                },
-                {
-                    "alias": "bars",
-                    "title": "Bars"
-                }
-            ],
-            "rating": 4.0,
-            "coordinates": {
-                "latitude": 42.280283,
-                "longitude": -83.746494
-            },
-            "transactions": [
-                "delivery"
+                "delivery",
+                "pickup"
             ],
             "price": "$$$",
             "location": {
-                "address1": "216 E Washington St",
+                "address1": "448 S Hill St",
                 "address2": "",
                 "address3": "",
-                "city": "Ann Arbor",
-                "zip_code": "48104",
+                "city": "Los Angeles",
+                "zip_code": "90013",
                 "country": "US",
-                "state": "MI",
+                "state": "CA",
                 "display_address": [
-                    "216 E Washington St",
-                    "Ann Arbor, MI 48104"
+                    "448 S Hill St",
+                    "Los Angeles, CA 90013"
                 ]
             },
-            "phone": "+17343693153",
-            "display_phone": "(734) 369-3153",
-            "distance": 1064.463194980032
+            "phone": "+12138021770",
+            "display_phone": "(213) 802-1770",
+            "distance": 6597.051601498323
         },
         {
-            "id": "N-P5dPjMepH-Ce5b7q8HKQ",
-            "alias": "zingermans-roadhouse-ann-arbor",
-            "name": "Zingerman's Roadhouse",
-            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/-ELEuwSkEPop1LduNi7R3A/o.jpg",
+            "id": "TkFEKhsCixPWlShULKvMdQ",
+            "alias": "bottega-louie-los-angeles",
+            "name": "Bottega Louie",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/rAImnKvUNcNY8i6qEDWrZA/o.jpg",
             "is_closed": false,
-            "url": "https://www.yelp.com/biz/zingermans-roadhouse-ann-arbor?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
-            "review_count": 1348,
+            "url": "https://www.yelp.com/biz/bottega-louie-los-angeles?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
+            "review_count": 18170,
             "categories": [
                 {
-                    "alias": "tradamerican",
-                    "title": "American (Traditional)"
+                    "alias": "italian",
+                    "title": "Italian"
                 },
                 {
-                    "alias": "venues",
-                    "title": "Venues & Event Spaces"
+                    "alias": "desserts",
+                    "title": "Desserts"
                 },
                 {
                     "alias": "breakfast_brunch",
                     "title": "Breakfast & Brunch"
-                }
-            ],
-            "rating": 3.5,
-            "coordinates": {
-                "latitude": 42.2804461,
-                "longitude": -83.7805119
-            },
-            "transactions": [
-                "delivery"
-            ],
-            "price": "$$",
-            "location": {
-                "address1": "2501 Jackson Ave",
-                "address2": "",
-                "address3": "",
-                "city": "Ann Arbor",
-                "zip_code": "48103",
-                "country": "US",
-                "state": "MI",
-                "display_address": [
-                    "2501 Jackson Ave",
-                    "Ann Arbor, MI 48103"
-                ]
-            },
-            "phone": "+17346633663",
-            "display_phone": "(734) 663-3663",
-            "distance": 3630.51343979573
-        },
-        {
-            "id": "O6no8GwkxmxS_vSmRdsFiA",
-            "alias": "juicy-kitchen-ann-arbor-3",
-            "name": "Juicy Kitchen",
-            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/bQrjZpICOOV7vLjy0kwV0Q/o.jpg",
-            "is_closed": false,
-            "url": "https://www.yelp.com/biz/juicy-kitchen-ann-arbor-3?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
-            "review_count": 362,
-            "categories": [
-                {
-                    "alias": "breakfast_brunch",
-                    "title": "Breakfast & Brunch"
-                },
-                {
-                    "alias": "gluten_free",
-                    "title": "Gluten-Free"
-                },
-                {
-                    "alias": "coffee",
-                    "title": "Coffee & Tea"
-                }
-            ],
-            "rating": 4.5,
-            "coordinates": {
-                "latitude": 42.2959222,
-                "longitude": -83.7808651
-            },
-            "transactions": [
-                "pickup",
-                "delivery"
-            ],
-            "price": "$$",
-            "location": {
-                "address1": "1506 N Maple Rd",
-                "address2": "",
-                "address3": "",
-                "city": "Ann Arbor",
-                "zip_code": "48103",
-                "country": "US",
-                "state": "MI",
-                "display_address": [
-                    "1506 N Maple Rd",
-                    "Ann Arbor, MI 48103"
-                ]
-            },
-            "phone": "+17345855562",
-            "display_phone": "(734) 585-5562",
-            "distance": 4301.839243836748
-        },
-        {
-            "id": "NhvtCf1W-h17Iie0brPU5A",
-            "alias": "pacific-rim-ann-arbor",
-            "name": "Pacific Rim",
-            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/nmE0zmANsiR97VH6vtwB3g/o.jpg",
-            "is_closed": false,
-            "url": "https://www.yelp.com/biz/pacific-rim-ann-arbor?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
-            "review_count": 514,
-            "categories": [
-                {
-                    "alias": "asianfusion",
-                    "title": "Asian Fusion"
                 }
             ],
             "rating": 4.0,
             "coordinates": {
-                "latitude": 42.27981,
-                "longitude": -83.74937
+                "latitude": 34.047056,
+                "longitude": -118.256544
             },
             "transactions": [
-                "pickup",
                 "delivery"
             ],
-            "price": "$$$",
-            "location": {
-                "address1": "114 W Liberty St",
-                "address2": "",
-                "address3": "",
-                "city": "Ann Arbor",
-                "zip_code": "48104",
-                "country": "US",
-                "state": "MI",
-                "display_address": [
-                    "114 W Liberty St",
-                    "Ann Arbor, MI 48104"
-                ]
-            },
-            "phone": "+17346629303",
-            "display_phone": "(734) 662-9303",
-            "distance": 1202.931948703482
-        },
-        {
-            "id": "Pe7u7DJfR7Ou2D9iMwEG4A",
-            "alias": "teahaus-ann-arbor",
-            "name": "TeaHaus",
-            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/UTdl9cyU5XsjuGtc_axLJg/o.jpg",
-            "is_closed": false,
-            "url": "https://www.yelp.com/biz/teahaus-ann-arbor?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
-            "review_count": 247,
-            "categories": [
-                {
-                    "alias": "macarons",
-                    "title": "Macarons"
-                },
-                {
-                    "alias": "tea",
-                    "title": "Tea Rooms"
-                }
-            ],
-            "rating": 4.5,
-            "coordinates": {
-                "latitude": 42.2825307588819,
-                "longitude": -83.7469515
-            },
-            "transactions": [],
             "price": "$$",
             "location": {
-                "address1": "204-206 N 4th Ave",
-                "address2": "",
+                "address1": "700 S Grand Ave",
+                "address2": null,
                 "address3": "",
-                "city": "Ann Arbor",
-                "zip_code": "48104",
+                "city": "Los Angeles",
+                "zip_code": "90017",
                 "country": "US",
-                "state": "MI",
+                "state": "CA",
                 "display_address": [
-                    "204-206 N 4th Ave",
-                    "Ann Arbor, MI 48104"
+                    "700 S Grand Ave",
+                    "Los Angeles, CA 90017"
                 ]
             },
-            "phone": "+17346220460",
-            "display_phone": "(734) 622-0460",
-            "distance": 1282.4350746095242
+            "phone": "+12138021470",
+            "display_phone": "(213) 802-1470",
+            "distance": 6187.230518693633
         },
         {
-            "id": "KKCc0UwSpqLl3PkdB1Yhew",
-            "alias": "tomukun-noodle-bar-ann-arbor",
-            "name": "Tomukun Noodle Bar",
-            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/TvQmu0QWNMFJYXvli5Bkbw/o.jpg",
+            "id": "h1R2iKYdm2lwukzMJvJqDw",
+            "alias": "hangari-kalguksu-los-angeles-4",
+            "name": "Hangari Kalguksu",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/X_U65O9YnvMyb42h1BZ0JQ/o.jpg",
             "is_closed": false,
-            "url": "https://www.yelp.com/biz/tomukun-noodle-bar-ann-arbor?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
-            "review_count": 856,
+            "url": "https://www.yelp.com/biz/hangari-kalguksu-los-angeles-4?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
+            "review_count": 2409,
             "categories": [
+                {
+                    "alias": "korean",
+                    "title": "Korean"
+                },
                 {
                     "alias": "noodles",
                     "title": "Noodles"
                 }
             ],
-            "rating": 4.0,
+            "rating": 4.5,
             "coordinates": {
-                "latitude": 42.2795599,
-                "longitude": -83.74278
+                "latitude": 34.0628602582049,
+                "longitude": -118.297570301258
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "3470 W 6th St",
+                "address2": "Ste 9&10",
+                "address3": "",
+                "city": "Los Angeles",
+                "zip_code": "90020",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "3470 W 6th St",
+                    "Ste 9&10",
+                    "Los Angeles, CA 90020"
+                ]
+            },
+            "phone": "+12133882326",
+            "display_phone": "(213) 388-2326",
+            "distance": 2193.818218766019
+        },
+        {
+            "id": "MlmcOkwaNnxl3Zuk6HsPCQ",
+            "alias": "slurpin-ramen-bar-los-angeles-los-angeles",
+            "name": "Slurpin' Ramen Bar - Los Angeles",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/axO_FH4VwDYcPQOuabFi6g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/slurpin-ramen-bar-los-angeles-los-angeles?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
+            "review_count": 5489,
+            "categories": [
+                {
+                    "alias": "ramen",
+                    "title": "Ramen"
+                },
+                {
+                    "alias": "noodles",
+                    "title": "Noodles"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 34.0573614429986,
+                "longitude": -118.306769744705
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "3500 W 8th St",
+                "address2": null,
+                "address3": "",
+                "city": "Los Angeles",
+                "zip_code": "90005",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "3500 W 8th St",
+                    "Los Angeles, CA 90005"
+                ]
+            },
+            "phone": "+12133888607",
+            "display_phone": "(213) 388-8607",
+            "distance": 1425.869627698003
+        },
+        {
+            "id": "fEY0zHaDMfIW3-N__joDKQ",
+            "alias": "bestia-los-angeles",
+            "name": "Bestia",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/qourX-TmOyNBEQZxDqAwUA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/bestia-los-angeles?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
+            "review_count": 7319,
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 34.03402,
+                "longitude": -118.22919
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$$",
+            "location": {
+                "address1": "2121 E 7th Pl",
+                "address2": "",
+                "address3": "",
+                "city": "Los Angeles",
+                "zip_code": "90021",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "2121 E 7th Pl",
+                    "Los Angeles, CA 90021"
+                ]
+            },
+            "phone": "+12135145724",
+            "display_phone": "(213) 514-5724",
+            "distance": 9026.314103926277
+        },
+        {
+            "id": "ohosmz6FXVAeoW5nUkYwng",
+            "alias": "pine-and-crane-los-angeles-5",
+            "name": "Pine & Crane",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/04xZ0MmSeWQPUHEzUtfBgQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/pine-and-crane-los-angeles-5?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
+            "review_count": 2857,
+            "categories": [
+                {
+                    "alias": "taiwanese",
+                    "title": "Taiwanese"
+                },
+                {
+                    "alias": "chinese",
+                    "title": "Chinese"
+                },
+                {
+                    "alias": "bubbletea",
+                    "title": "Bubble Tea"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 34.09053958699736,
+                "longitude": -118.27712889122982
             },
             "transactions": [
                 "delivery"
             ],
             "price": "$$",
             "location": {
-                "address1": "505 E Liberty St",
-                "address2": "Ste 200",
+                "address1": "1521 Griffith Park Blvd",
+                "address2": "",
                 "address3": "",
-                "city": "Ann Arbor",
-                "zip_code": "48104",
+                "city": "Los Angeles",
+                "zip_code": "90026",
                 "country": "US",
-                "state": "MI",
+                "state": "CA",
                 "display_address": [
-                    "505 E Liberty St",
-                    "Ste 200",
-                    "Ann Arbor, MI 48104"
+                    "1521 Griffith Park Blvd",
+                    "Los Angeles, CA 90026"
                 ]
             },
-            "phone": "+17349958668",
-            "display_phone": "(734) 995-8668",
-            "distance": 814.8090097385689
+            "phone": "+13236681128",
+            "display_phone": "(323) 668-1128",
+            "distance": 5184.588451596412
         },
         {
-            "id": "26kppAVn9XoIx81FfJML9Q",
-            "alias": "roosroast-coffee-ann-arbor",
-            "name": "RoosRoast Coffee",
-            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/zQW0kqDhXqbAuJPkUum3Qg/o.jpg",
+            "id": "PI1TAMjFy1wO9OCiA-VWBA",
+            "alias": "fixins-soul-kitchen-los-angeles-los-angeles",
+            "name": "Fixins Soul Kitchen - Los Angeles",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/I_3ZKkTGKn3R5IlL8YfOUA/o.jpg",
             "is_closed": false,
-            "url": "https://www.yelp.com/biz/roosroast-coffee-ann-arbor?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
-            "review_count": 275,
+            "url": "https://www.yelp.com/biz/fixins-soul-kitchen-los-angeles-los-angeles?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
+            "review_count": 1310,
             "categories": [
+                {
+                    "alias": "soulfood",
+                    "title": "Soul Food"
+                },
+                {
+                    "alias": "comfortfood",
+                    "title": "Comfort Food"
+                },
+                {
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 34.04484,
+                "longitude": -118.26453
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "800 W Olympic Blvd",
+                "address2": "Ste A150",
+                "address3": null,
+                "city": "Los Angeles",
+                "zip_code": "90015",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "800 W Olympic Blvd",
+                    "Ste A150",
+                    "Los Angeles, CA 90015"
+                ]
+            },
+            "phone": "+12137997685",
+            "display_phone": "(213) 799-7685",
+            "distance": 5496.485149875148
+        },
+        {
+            "id": "_n0fEUZdbkLOimHz_IXkiQ",
+            "alias": "joey-dtla-los-angeles-4",
+            "name": "JOEY DTLA",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/VfGJ3kyzKuCguqIF6VIciA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/joey-dtla-los-angeles-4?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
+            "review_count": 2344,
+            "categories": [
+                {
+                    "alias": "sushi",
+                    "title": "Sushi Bars"
+                },
+                {
+                    "alias": "steak",
+                    "title": "Steakhouses"
+                },
+                {
+                    "alias": "wine_bars",
+                    "title": "Wine Bars"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 34.04802842513478,
+                "longitude": -118.2580505451759
+            },
+            "transactions": [],
+            "location": {
+                "address1": "700 W 7th St",
+                "address2": "Ste S430",
+                "address3": null,
+                "city": "Los Angeles",
+                "zip_code": "90017",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "700 W 7th St",
+                    "Ste S430",
+                    "Los Angeles, CA 90017"
+                ]
+            },
+            "phone": "+12133725335",
+            "display_phone": "(213) 372-5335",
+            "distance": 6025.247901808082
+        },
+        {
+            "id": "DJek3FUewBzMc0gS-Gms9w",
+            "alias": "morrison-atwater-village-los-angeles",
+            "name": "Morrison Atwater Village",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/rSDJYD7foVFKvk0Dy6SzzQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/morrison-atwater-village-los-angeles?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
+            "review_count": 6399,
+            "categories": [
+                {
+                    "alias": "gastropubs",
+                    "title": "Gastropubs"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "salad",
+                    "title": "Salad"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 34.12384,
+                "longitude": -118.26868
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "3179 Los Feliz Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "Los Angeles",
+                "zip_code": "90039",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "3179 Los Feliz Blvd",
+                    "Los Angeles, CA 90039"
+                ]
+            },
+            "phone": "+13236671839",
+            "display_phone": "(323) 667-1839",
+            "distance": 8434.8141300155
+        },
+        {
+            "id": "fxeuGYnoRWwm5aGDg1FRJA",
+            "alias": "marugame-monzo-los-angeles-5",
+            "name": "Marugame Monzo",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Ihjb7CQ5Zvzhsu3jRTPA4w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/marugame-monzo-los-angeles-5?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
+            "review_count": 4468,
+            "categories": [
+                {
+                    "alias": "japanese",
+                    "title": "Japanese"
+                },
+                {
+                    "alias": "noodles",
+                    "title": "Noodles"
+                },
+                {
+                    "alias": "asianfusion",
+                    "title": "Asian Fusion"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 34.04994760027338,
+                "longitude": -118.24004464723886
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "329 E 1st St",
+                "address2": "",
+                "address3": "",
+                "city": "Los Angeles",
+                "zip_code": "90012",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "329 E 1st St",
+                    "Los Angeles, CA 90012"
+                ]
+            },
+            "phone": "+12133469762",
+            "display_phone": "(213) 346-9762",
+            "distance": 7602.361913059015
+        },
+        {
+            "id": "gd6PYDx-leOM97a3MWoO1g",
+            "alias": "maccheroni-republic-los-angeles",
+            "name": "Maccheroni Republic",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/I-4SnHvaWothASzVaMhVYw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/maccheroni-republic-los-angeles?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
+            "review_count": 3738,
+            "categories": [
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                },
+                {
+                    "alias": "wine_bars",
+                    "title": "Wine Bars"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 34.0500282776566,
+                "longitude": -118.24852800000085
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "332 S Broadway",
+                "address2": "",
+                "address3": "",
+                "city": "Los Angeles",
+                "zip_code": "90013",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "332 S Broadway",
+                    "Los Angeles, CA 90013"
+                ]
+            },
+            "phone": "+12133469725",
+            "display_phone": "(213) 346-9725",
+            "distance": 6832.043061879375
+        },
+        {
+            "id": "RVbZaawgEGmto6TxOoVBdQ",
+            "alias": "running-goose-los-angeles",
+            "name": "Running Goose",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/45wLl1j0aFBV7c2WGtS4Kw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/running-goose-los-angeles?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
+            "review_count": 1597,
+            "categories": [
+                {
+                    "alias": "gastropubs",
+                    "title": "Gastropubs"
+                },
+                {
+                    "alias": "latin",
+                    "title": "Latin American"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 34.10052,
+                "longitude": -118.32927
+            },
+            "transactions": [
+                "restaurant_reservation",
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "1620 N Cahuenga Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "Los Angeles",
+                "zip_code": "90028",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1620 N Cahuenga Blvd",
+                    "Los Angeles, CA 90028"
+                ]
+            },
+            "phone": "+13234691080",
+            "display_phone": "(323) 469-1080",
+            "distance": 4380.601938107368
+        },
+        {
+            "id": "ki5SNb4Lli6uOklz6BXXGw",
+            "alias": "blu-jam-café-los-angeles-2",
+            "name": "Blu Jam Café",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/vipxHa2Iq21FaecuOxS7MA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/blu-jam-caf%C3%A9-los-angeles-2?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
+            "review_count": 5907,
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 34.0837144354804,
+                "longitude": -118.350571407739
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "7371 Melrose Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Los Angeles",
+                "zip_code": "90046",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "7371 Melrose Ave",
+                    "Los Angeles, CA 90046"
+                ]
+            },
+            "phone": "+13239519191",
+            "display_phone": "(323) 951-9191",
+            "distance": 3639.988637480749
+        },
+        {
+            "id": "OSYoTFAfq9_wFyDH_qUsTA",
+            "alias": "the-griddle-cafe-los-angeles-2",
+            "name": "The Griddle Cafe",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/k55Hvz8FpRYmaN8dkk_Utg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-griddle-cafe-los-angeles-2?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
+            "review_count": 6603,
+            "categories": [
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
                 {
                     "alias": "coffee",
                     "title": "Coffee & Tea"
-                }
-            ],
-            "rating": 4.5,
-            "coordinates": {
-                "latitude": 42.25524,
-                "longitude": -83.73411
-            },
-            "transactions": [
-                "pickup",
-                "delivery"
-            ],
-            "price": "$$",
-            "location": {
-                "address1": "1155 Rosewood St",
-                "address2": "Ste B",
-                "address3": "",
-                "city": "Ann Arbor",
-                "zip_code": "48104",
-                "country": "US",
-                "state": "MI",
-                "display_address": [
-                    "1155 Rosewood St",
-                    "Ste B",
-                    "Ann Arbor, MI 48104"
-                ]
-            },
-            "phone": "+17342229202",
-            "display_phone": "(734) 222-9202",
-            "distance": 2020.8185942020505
-        },
-        {
-            "id": "zGy1gswa52Df4FT4bDzlZg",
-            "alias": "monahans-seafood-market-ann-arbor",
-            "name": "Monahan's Seafood Market",
-            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/J_V6ovXV1eZlO-gozlNnIA/o.jpg",
-            "is_closed": false,
-            "url": "https://www.yelp.com/biz/monahans-seafood-market-ann-arbor?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
-            "review_count": 224,
-            "categories": [
-                {
-                    "alias": "seafood",
-                    "title": "Seafood"
                 },
                 {
-                    "alias": "seafoodmarkets",
-                    "title": "Seafood Markets"
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
                 }
             ],
-            "rating": 4.5,
+            "rating": 4.0,
             "coordinates": {
-                "latitude": 42.2843246,
-                "longitude": -83.7460403
+                "latitude": 34.097727,
+                "longitude": -118.362275
             },
             "transactions": [
                 "delivery"
             ],
             "price": "$$",
             "location": {
-                "address1": "407 N 5th Ave",
+                "address1": "7916 Sunset Blvd",
                 "address2": "",
                 "address3": "",
-                "city": "Ann Arbor",
-                "zip_code": "48104",
+                "city": "Los Angeles",
+                "zip_code": "90046",
                 "country": "US",
-                "state": "MI",
+                "state": "CA",
                 "display_address": [
-                    "407 N 5th Ave",
-                    "Ann Arbor, MI 48104"
+                    "7916 Sunset Blvd",
+                    "Los Angeles, CA 90046"
                 ]
             },
-            "phone": "+17346625118",
-            "display_phone": "(734) 662-5118",
-            "distance": 1426.5320472819667
+            "phone": "+13233786311",
+            "display_phone": "(323) 378-6311",
+            "distance": 5502.151341019487
         },
         {
-            "id": "DqKnaIclxErF1JXdWanJ8g",
-            "alias": "the-songbird-cafe-ann-arbor",
-            "name": "The Songbird Cafe",
-            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/_NpISHI5FPBdzBQJCrDOaQ/o.jpg",
+            "id": "-9NXuo0g_NwOPfnKX3Vr_g",
+            "alias": "dama-los-angeles-6",
+            "name": "DAMA",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/fWPSjn6HnL82zq4Hz3XDzQ/o.jpg",
             "is_closed": false,
-            "url": "https://www.yelp.com/biz/the-songbird-cafe-ann-arbor?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
-            "review_count": 384,
+            "url": "https://www.yelp.com/biz/dama-los-angeles-6?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
+            "review_count": 1051,
+            "categories": [
+                {
+                    "alias": "latin",
+                    "title": "Latin American"
+                },
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                },
+                {
+                    "alias": "wine_bars",
+                    "title": "Wine Bars"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 34.0352819442964,
+                "longitude": -118.253066191412
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$$",
+            "location": {
+                "address1": "612 E 11th St",
+                "address2": null,
+                "address3": "",
+                "city": "Los Angeles",
+                "zip_code": "90015",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "612 E 11th St",
+                    "Los Angeles, CA 90015"
+                ]
+            },
+            "phone": "+12137410612",
+            "display_phone": "(213) 741-0612",
+            "distance": 6941.729826861498
+        },
+        {
+            "id": "6i7KnRylm4bhPIApDFSVCg",
+            "alias": "daves-hot-chicken-los-angeles",
+            "name": "Dave's Hot Chicken",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Sw3uz8qqyMDJ-0r1DiD2MA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/daves-hot-chicken-los-angeles?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
+            "review_count": 3716,
+            "categories": [
+                {
+                    "alias": "chickenshop",
+                    "title": "Chicken Shop"
+                },
+                {
+                    "alias": "halal",
+                    "title": "Halal"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 34.08807911,
+                "longitude": -118.30895127
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "970 N Western Ave",
+                "address2": "",
+                "address3": null,
+                "city": "Los Angeles",
+                "zip_code": "90029",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "970 N Western Ave",
+                    "Los Angeles, CA 90029"
+                ]
+            },
+            "phone": "+13235369711",
+            "display_phone": "(323) 536-9711",
+            "distance": 3149.3707818751527
+        },
+        {
+            "id": "BzmbRSKGs56Yw2w2R12khw",
+            "alias": "hoy-ka-thai-restaurant-los-angeles",
+            "name": "Hoy-Ka Thai Restaurant",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/KC7NEeSA3rnnPVFDhCkZpg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/hoy-ka-thai-restaurant-los-angeles?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
+            "review_count": 2196,
+            "categories": [
+                {
+                    "alias": "thai",
+                    "title": "Thai"
+                },
+                {
+                    "alias": "noodles",
+                    "title": "Noodles"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 34.09784367,
+                "longitude": -118.31833767
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "5908 Sunset Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "Los Angeles",
+                "zip_code": "90028",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "5908 Sunset Blvd",
+                    "Los Angeles, CA 90028"
+                ]
+            },
+            "phone": "+13234632979",
+            "display_phone": "(323) 463-2979",
+            "distance": 4029.0301226334113
+        },
+        {
+            "id": "H9ZlIqEp930ZRniH6VRp8w",
+            "alias": "papa-cristos-los-angeles-2",
+            "name": "Papa Cristo's",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/VWXlrQSqpp8blLHqURMEVw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/papa-cristos-los-angeles-2?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
+            "review_count": 2165,
+            "categories": [
+                {
+                    "alias": "greek",
+                    "title": "Greek"
+                },
+                {
+                    "alias": "mediterranean",
+                    "title": "Mediterranean"
+                },
+                {
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 34.0474029033579,
+                "longitude": -118.299641746033
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "2771 W Pico Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "Los Angeles",
+                "zip_code": "90006",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "2771 W Pico Blvd",
+                    "Los Angeles, CA 90006"
+                ]
+            },
+            "phone": "+13237372970",
+            "display_phone": "(323) 737-2970",
+            "distance": 2553.0117787591703
+        },
+        {
+            "id": "h2u-coGd8WWClyU3b7jf8w",
+            "alias": "met-her-at-a-bar-los-angeles-2",
+            "name": "Met Her At A Bar",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/pAzx5GDMh8IdYrOi-1Te6A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/met-her-at-a-bar-los-angeles-2?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
+            "review_count": 2369,
             "categories": [
                 {
                     "alias": "cafes",
                     "title": "Cafes"
                 },
                 {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 34.0609448,
+                "longitude": -118.3446759
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "759 S La Brea Ave",
+                "address2": null,
+                "address3": "",
+                "city": "Los Angeles",
+                "zip_code": "90036",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "759 S La Brea Ave",
+                    "Los Angeles, CA 90036"
+                ]
+            },
+            "phone": "+13238475013",
+            "display_phone": "(323) 847-5013",
+            "distance": 2171.0613027405752
+        },
+        {
+            "id": "qCJ2LFfNbXYBIcjXNva1cA",
+            "alias": "langers-delicatessen-los-angeles-2",
+            "name": "Langer's Delicatessen",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/oCR_15ssmgeQ2UXUlPgMdw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/langers-delicatessen-los-angeles-2?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
+            "review_count": 4350,
+            "categories": [
+                {
+                    "alias": "delis",
+                    "title": "Delis"
+                },
+                {
                     "alias": "sandwiches",
                     "title": "Sandwiches"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 34.05609,
+                "longitude": -118.27658
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "704 S Alvarado St",
+                "address2": "",
+                "address3": "",
+                "city": "Los Angeles",
+                "zip_code": "90057",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "704 S Alvarado St",
+                    "Los Angeles, CA 90057"
+                ]
+            },
+            "phone": "+12134838050",
+            "display_phone": "(213) 483-8050",
+            "distance": 4148.267550104073
+        },
+        {
+            "id": "AIhWsp8yNfKZfaX9d9Yajg",
+            "alias": "pasta-sisters-los-angeles",
+            "name": "Pasta Sisters",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/nZfuHcaGadmCxi6gAkBCBw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/pasta-sisters-los-angeles?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
+            "review_count": 1927,
+            "categories": [
+                {
+                    "alias": "delis",
+                    "title": "Delis"
+                },
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 34.0476,
+                "longitude": -118.317234
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "3343 W Pico Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "Los Angeles",
+                "zip_code": "90019",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "3343 W Pico Blvd",
+                    "Los Angeles, CA 90019"
+                ]
+            },
+            "phone": "+13238705271",
+            "display_phone": "(323) 870-5271",
+            "distance": 1610.9030096641052
+        },
+        {
+            "id": "wo3wnj3pMSOPkzqpvbey-g",
+            "alias": "bavel-los-angeles-3",
+            "name": "Bavel",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/WWUXh-GKPGntBljBdbTYug/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/bavel-los-angeles-3?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
+            "review_count": 2160,
+            "categories": [
+                {
+                    "alias": "mideastern",
+                    "title": "Middle Eastern"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 34.04151,
+                "longitude": -118.23261
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$$",
+            "location": {
+                "address1": "500 Mateo St",
+                "address2": null,
+                "address3": null,
+                "city": "Los Angeles",
+                "zip_code": "90013",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "500 Mateo St",
+                    "Los Angeles, CA 90013"
+                ]
+            },
+            "phone": "+12132324966",
+            "display_phone": "(213) 232-4966",
+            "distance": 8471.70289735109
+        },
+        {
+            "id": "NffHWFzlhlsPvl06guR2gQ",
+            "alias": "mohawk-bend-los-angeles",
+            "name": "Mohawk Bend",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/feXjluvIgXT4EPxOowmkXQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mohawk-bend-los-angeles?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
+            "review_count": 2543,
+            "categories": [
+                {
+                    "alias": "gastropubs",
+                    "title": "Gastropubs"
+                },
+                {
+                    "alias": "beerbar",
+                    "title": "Beer Bar"
+                },
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 34.0775496584095,
+                "longitude": -118.264732207155
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "2141 W Sunset Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "Los Angeles",
+                "zip_code": "90026",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "2141 W Sunset Blvd",
+                    "Los Angeles, CA 90026"
+                ]
+            },
+            "phone": "+12134832337",
+            "display_phone": "(213) 483-2337",
+            "distance": 5504.836775150112
+        },
+        {
+            "id": "vnLHXjXRK3Euzkq8vRYzqA",
+            "alias": "barton-g-the-restaurant-los-angeles-los-angeles-4",
+            "name": "Barton G The Restaurant - Los Angeles",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/iXcYrfUGC5bqb4evIkAsog/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/barton-g-the-restaurant-los-angeles-los-angeles-4?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
+            "review_count": 2890,
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "venues",
+                    "title": "Venues & Event Spaces"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 34.0869539412233,
+                "longitude": -118.376752998217
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$$",
+            "location": {
+                "address1": "861 N La Cienega Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "Los Angeles",
+                "zip_code": "90069",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "861 N La Cienega Blvd",
+                    "Los Angeles, CA 90069"
+                ]
+            },
+            "phone": "+13103881888",
+            "display_phone": "(310) 388-1888",
+            "distance": 5825.996737735755
+        },
+        {
+            "id": "TzIJzamxdVGc3zReKbLGaA",
+            "alias": "providence-los-angeles-2",
+            "name": "Providence",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/NQ4NEdMjvj121E4yEAdy3g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/providence-los-angeles-2?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
+            "review_count": 2920,
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
+                {
+                    "alias": "seafood",
+                    "title": "Seafood"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 34.083628,
+                "longitude": -118.330168
+            },
+            "transactions": [
+                "pickup"
+            ],
+            "price": "$$$$",
+            "location": {
+                "address1": "5955 Melrose Ave",
+                "address2": "",
+                "address3": "",
+                "city": "Los Angeles",
+                "zip_code": "90038",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "5955 Melrose Ave",
+                    "Los Angeles, CA 90038"
+                ]
+            },
+            "phone": "+13234604170",
+            "display_phone": "(323) 460-4170",
+            "distance": 2572.139721052658
+        },
+        {
+            "id": "eoOJbi94rj9277dG7WIv0A",
+            "alias": "home-restaurant-los-feliz-los-angeles",
+            "name": "Home Restaurant - Los Feliz",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/FE8eO445osIR896jJZZiBA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/home-restaurant-los-feliz-los-angeles?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
+            "review_count": 3663,
+            "categories": [
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
                 },
                 {
                     "alias": "coffee",
                     "title": "Coffee & Tea"
-                }
-            ],
-            "rating": 4.5,
-            "coordinates": {
-                "latitude": 42.303807,
-                "longitude": -83.706791
-            },
-            "transactions": [
-                "delivery"
-            ],
-            "price": "$$",
-            "location": {
-                "address1": "2707 Plymouth Rd",
-                "address2": "",
-                "address3": "",
-                "city": "Ann Arbor",
-                "zip_code": "48105",
-                "country": "US",
-                "state": "MI",
-                "display_address": [
-                    "2707 Plymouth Rd",
-                    "Ann Arbor, MI 48105"
-                ]
-            },
-            "phone": "+17347807100",
-            "display_phone": "(734) 780-7100",
-            "distance": 4252.931959071023
-        },
-        {
-            "id": "B-Hh0qSJlRvg3YijPR0Ckw",
-            "alias": "biercamp-ann-arbor",
-            "name": "Biercamp",
-            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/FbuPx7svNh3sYx4NMFClPw/o.jpg",
-            "is_closed": false,
-            "url": "https://www.yelp.com/biz/biercamp-ann-arbor?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
-            "review_count": 222,
-            "categories": [
-                {
-                    "alias": "meats",
-                    "title": "Meat Shops"
                 },
                 {
-                    "alias": "breweries",
-                    "title": "Breweries"
-                },
-                {
-                    "alias": "hotdog",
-                    "title": "Hot Dogs"
-                }
-            ],
-            "rating": 4.5,
-            "coordinates": {
-                "latitude": 42.25849,
-                "longitude": -83.73975
-            },
-            "transactions": [
-                "delivery"
-            ],
-            "price": "$$",
-            "location": {
-                "address1": "1643 S State St",
-                "address2": "",
-                "address3": "",
-                "city": "Ann Arbor",
-                "zip_code": "48104",
-                "country": "US",
-                "state": "MI",
-                "display_address": [
-                    "1643 S State St",
-                    "Ann Arbor, MI 48104"
-                ]
-            },
-            "phone": "+17349952437",
-            "display_phone": "(734) 995-2437",
-            "distance": 1642.2656326439044
-        },
-        {
-            "id": "GPzt1fncpK_Foi_DBYlYBg",
-            "alias": "isalita-ann-arbor",
-            "name": "Isalita",
-            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Oq3QtH5HrgbWw4XQpa-PrA/o.jpg",
-            "is_closed": false,
-            "url": "https://www.yelp.com/biz/isalita-ann-arbor?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
-            "review_count": 586,
-            "categories": [
-                {
-                    "alias": "mexican",
-                    "title": "Mexican"
+                    "alias": "newamerican",
+                    "title": "American (New)"
                 }
             ],
             "rating": 4.0,
             "coordinates": {
-                "latitude": 42.2794618,
-                "longitude": -83.7444065
+                "latitude": 34.1030834,
+                "longitude": -118.28718817285792
             },
             "transactions": [
-                "delivery"
+                "delivery",
+                "pickup"
             ],
             "price": "$$",
             "location": {
-                "address1": "341 E Liberty St",
-                "address2": "Ste 2",
+                "address1": "1760 Hillhurst Ave",
+                "address2": "",
                 "address3": "",
-                "city": "Ann Arbor",
-                "zip_code": "48104",
+                "city": "Los Angeles",
+                "zip_code": "90027",
                 "country": "US",
-                "state": "MI",
+                "state": "CA",
                 "display_address": [
-                    "341 E Liberty St",
-                    "Ste 2",
-                    "Ann Arbor, MI 48104"
+                    "1760 Hillhurst Ave",
+                    "Los Angeles, CA 90027"
                 ]
             },
-            "phone": "+17342137400",
-            "display_phone": "(734) 213-7400",
-            "distance": 883.8296739661278
+            "phone": "+13239908016",
+            "display_phone": "(323) 990-8016",
+            "distance": 5575.676068193991
         },
         {
-            "id": "xxLv8DPgcbnLdd4Fa5APuA",
-            "alias": "poke-fish-ann-arbor-2",
-            "name": "Poke Fish",
-            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/j2zjGuc8nHrHADiwcEdigQ/o.jpg",
+            "id": "qA9Dqezi-kqbIBtM3c07Ew",
+            "alias": "manuela-los-angeles-2",
+            "name": "Manuela",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/0JAGFsPqqRl4SyF76U4Q_g/o.jpg",
             "is_closed": false,
-            "url": "https://www.yelp.com/biz/poke-fish-ann-arbor-2?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
-            "review_count": 302,
+            "url": "https://www.yelp.com/biz/manuela-los-angeles-2?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
+            "review_count": 1605,
             "categories": [
                 {
-                    "alias": "poke",
-                    "title": "Poke"
+                    "alias": "newamerican",
+                    "title": "American (New)"
                 },
                 {
-                    "alias": "japanese",
-                    "title": "Japanese"
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "bars",
+                    "title": "Bars"
                 }
             ],
-            "rating": 4.5,
+            "rating": 4.0,
             "coordinates": {
-                "latitude": 42.25519,
-                "longitude": -83.69031
+                "latitude": 34.04608,
+                "longitude": -118.23489
             },
             "transactions": [
-                "pickup",
                 "delivery"
             ],
             "price": "$$",
             "location": {
-                "address1": "3500 Washtenaw Ave",
-                "address2": "Ste E4",
+                "address1": "907 E 3rd St",
+                "address2": "",
                 "address3": null,
-                "city": "Ann Arbor",
-                "zip_code": "48104",
+                "city": "Los Angeles",
+                "zip_code": "90013",
                 "country": "US",
-                "state": "MI",
+                "state": "CA",
                 "display_address": [
-                    "3500 Washtenaw Ave",
-                    "Ste E4",
-                    "Ann Arbor, MI 48104"
+                    "907 E 3rd St",
+                    "Los Angeles, CA 90013"
                 ]
             },
-            "phone": "+17349222207",
-            "display_phone": "(734) 922-2207",
-            "distance": 4506.941362230593
+            "phone": "+13238490480",
+            "display_phone": "(323) 849-0480",
+            "distance": 8132.467842124219
         },
         {
-            "id": "T7q_UCRZlbImpETHxXGWnw",
-            "alias": "chelas-ann-arbor",
-            "name": "Chela's",
-            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/lgq0IhODJNHl7tHyYtRvAg/o.jpg",
+            "id": "kdTFcDSl9vAR-btEm1Q2uw",
+            "alias": "bao-dim-sum-house-los-angeles",
+            "name": "Bao Dim Sum House",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Su6hAn4L13LnK_1aZ-dDqQ/o.jpg",
             "is_closed": false,
-            "url": "https://www.yelp.com/biz/chelas-ann-arbor?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
-            "review_count": 430,
+            "url": "https://www.yelp.com/biz/bao-dim-sum-house-los-angeles?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
+            "review_count": 3459,
             "categories": [
                 {
-                    "alias": "mexican",
-                    "title": "Mexican"
+                    "alias": "dimsum",
+                    "title": "Dim Sum"
                 },
                 {
-                    "alias": "gluten_free",
-                    "title": "Gluten-Free"
-                }
-            ],
-            "rating": 4.5,
-            "coordinates": {
-                "latitude": 42.2736697,
-                "longitude": -83.7797882
-            },
-            "transactions": [
-                "pickup",
-                "delivery"
-            ],
-            "price": "$",
-            "location": {
-                "address1": "693 S Maple Rd",
-                "address2": "",
-                "address3": "",
-                "city": "Ann Arbor",
-                "zip_code": "48103",
-                "country": "US",
-                "state": "MI",
-                "display_address": [
-                    "693 S Maple Rd",
-                    "Ann Arbor, MI 48103"
-                ]
-            },
-            "phone": "+17343326055",
-            "display_phone": "(734) 332-6055",
-            "distance": 3422.7329058795035
-        },
-        {
-            "id": "8nKu9TATiJyjhYvijD7vIw",
-            "alias": "tmaz-taqueria-ann-arbor",
-            "name": "Tmaz Taqueria",
-            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/lmpiXSlbtbjiGaFZctmbrQ/o.jpg",
-            "is_closed": false,
-            "url": "https://www.yelp.com/biz/tmaz-taqueria-ann-arbor?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
-            "review_count": 449,
-            "categories": [
+                    "alias": "bars",
+                    "title": "Bars"
+                },
                 {
-                    "alias": "mexican",
-                    "title": "Mexican"
+                    "alias": "tapasmallplates",
+                    "title": "Tapas/Small Plates"
                 }
             ],
             "rating": 4.0,
             "coordinates": {
-                "latitude": 42.2449934,
-                "longitude": -83.6965964
+                "latitude": 34.07577,
+                "longitude": -118.36982
             },
             "transactions": [
-                "pickup",
-                "delivery"
-            ],
-            "price": "$",
-            "location": {
-                "address1": "3182 Packard St",
-                "address2": "",
-                "address3": "",
-                "city": "Ann Arbor",
-                "zip_code": "48108",
-                "country": "US",
-                "state": "MI",
-                "display_address": [
-                    "3182 Packard St",
-                    "Ann Arbor, MI 48108"
-                ]
-            },
-            "phone": "+17344776089",
-            "display_phone": "(734) 477-6089",
-            "distance": 4658.938284122608
-        },
-        {
-            "id": "XFImIH0ZKR3wTxKpDevhcQ",
-            "alias": "detroit-street-filling-station-ann-arbor",
-            "name": "Detroit Street Filling Station",
-            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/YeYyKCQolDG8wfQoHJGlhg/o.jpg",
-            "is_closed": false,
-            "url": "https://www.yelp.com/biz/detroit-street-filling-station-ann-arbor?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
-            "review_count": 268,
-            "categories": [
-                {
-                    "alias": "vegan",
-                    "title": "Vegan"
-                },
-                {
-                    "alias": "jazzandblues",
-                    "title": "Jazz & Blues"
-                },
-                {
-                    "alias": "vegetarian",
-                    "title": "Vegetarian"
-                }
-            ],
-            "rating": 4.5,
-            "coordinates": {
-                "latitude": 42.283418,
-                "longitude": -83.746341
-            },
-            "transactions": [
-                "delivery"
+                "delivery",
+                "pickup"
             ],
             "price": "$$",
             "location": {
-                "address1": "300 Detroit St",
+                "address1": "8256 Beverly Blvd",
                 "address2": null,
                 "address3": "",
-                "city": "Ann Arbor",
-                "zip_code": "48104",
+                "city": "Los Angeles",
+                "zip_code": "90048",
                 "country": "US",
-                "state": "MI",
+                "state": "CA",
                 "display_address": [
-                    "300 Detroit St",
-                    "Ann Arbor, MI 48104"
+                    "8256 Beverly Blvd",
+                    "Los Angeles, CA 90048"
                 ]
             },
-            "phone": "+17342248262",
-            "display_phone": "(734) 224-8262",
-            "distance": 1336.3965976796121
+            "phone": "+13236556556",
+            "display_phone": "(323) 655-6556",
+            "distance": 4738.489996384992
         },
         {
-            "id": "putshCFiTdP7LwNDVVILTQ",
-            "alias": "tomukun-korean-barbeque-ann-arbor",
-            "name": "Tomukun Korean Barbeque",
-            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/QnjjVGIDTAan_QdPoT_VjA/o.jpg",
+            "id": "TsVu9GJQwuFBZVP_sg2k7A",
+            "alias": "quarters-korean-bbq-los-angeles",
+            "name": "Quarters Korean BBQ",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/bPhelzReeQoCaL4fdOH9KA/o.jpg",
             "is_closed": false,
-            "url": "https://www.yelp.com/biz/tomukun-korean-barbeque-ann-arbor?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
-            "review_count": 453,
+            "url": "https://www.yelp.com/biz/quarters-korean-bbq-los-angeles?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
+            "review_count": 3507,
             "categories": [
                 {
                     "alias": "korean",
@@ -966,749 +1432,723 @@
                     "title": "Barbeque"
                 },
                 {
-                    "alias": "bars",
-                    "title": "Bars"
+                    "alias": "tapas",
+                    "title": "Tapas Bars"
                 }
             ],
             "rating": 4.0,
             "coordinates": {
-                "latitude": 42.2795502,
-                "longitude": -83.7427918
+                "latitude": 34.0640202245113,
+                "longitude": -118.297687050455
             },
             "transactions": [
-                "delivery"
+                "delivery",
+                "pickup"
             ],
             "price": "$$",
             "location": {
-                "address1": "505 E Liberty St",
-                "address2": "Ste 200",
-                "address3": "",
-                "city": "Ann Arbor",
-                "zip_code": "48104",
+                "address1": "3465 W 6th St",
+                "address2": "",
+                "address3": "C-130",
+                "city": "Los Angeles",
+                "zip_code": "90020",
                 "country": "US",
-                "state": "MI",
+                "state": "CA",
                 "display_address": [
-                    "505 E Liberty St",
-                    "Ste 200",
-                    "Ann Arbor, MI 48104"
+                    "3465 W 6th St",
+                    "C-130",
+                    "Los Angeles, CA 90020"
                 ]
             },
-            "phone": "+17343692602",
-            "display_phone": "(734) 369-2602",
-            "distance": 817.3256508175706
+            "phone": "+12133658111",
+            "display_phone": "(213) 365-8111",
+            "distance": 2194.59217072655
         },
         {
-            "id": "Cosorw3lyBJYArC0pUNbqQ",
-            "alias": "cardamom-ann-arbor",
-            "name": "Cardamom",
-            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/83kNCGhaCpC1fcwQDfpKuw/o.jpg",
+            "id": "XrPVlXXa4cHLm7qKWFkfCg",
+            "alias": "a-food-affair-los-angeles",
+            "name": "A Food Affair",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/JO6C6qFoS1hR4Qu9oX0uFw/o.jpg",
             "is_closed": false,
-            "url": "https://www.yelp.com/biz/cardamom-ann-arbor?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
-            "review_count": 529,
+            "url": "https://www.yelp.com/biz/a-food-affair-los-angeles?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
+            "review_count": 1526,
             "categories": [
                 {
-                    "alias": "indpak",
-                    "title": "Indian"
+                    "alias": "french",
+                    "title": "French"
                 }
             ],
-            "rating": 4.0,
+            "rating": 4.5,
             "coordinates": {
-                "latitude": 42.298577940426,
-                "longitude": -83.7214592574346
+                "latitude": 34.051909,
+                "longitude": -118.3843212
             },
             "transactions": [
                 "delivery"
             ],
+            "price": "$$$",
+            "location": {
+                "address1": "1513 S Robertson Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "Los Angeles",
+                "zip_code": "90035",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1513 S Robertson Blvd",
+                    "Los Angeles, CA 90035"
+                ]
+            },
+            "phone": "+13105579795",
+            "display_phone": "(310) 557-9795",
+            "distance": 5912.952168576132
+        },
+        {
+            "id": "5SVj7kpiXxCEnkzL_8wA1g",
+            "alias": "redbird-los-angeles-2",
+            "name": "Redbird",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/zWgBLwNGsTGuZCI9uWFt2w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/redbird-los-angeles-2?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
+            "review_count": 1783,
+            "categories": [
+                {
+                    "alias": "cocktailbars",
+                    "title": "Cocktail Bars"
+                },
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 34.05049,
+                "longitude": -118.24406
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$$",
+            "location": {
+                "address1": "114 E 2nd St",
+                "address2": "",
+                "address3": "",
+                "city": "Los Angeles",
+                "zip_code": "90012",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "114 E 2nd St",
+                    "Los Angeles, CA 90012"
+                ]
+            },
+            "phone": "+12137881191",
+            "display_phone": "(213) 788-1191",
+            "distance": 7232.017839467889
+        },
+        {
+            "id": "YBmk31pBPukmnRyioe5uBA",
+            "alias": "sushi-gen-los-angeles",
+            "name": "Sushi Gen",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/vy1F4FQtaWaz-yjHNYkzUw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/sushi-gen-los-angeles?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
+            "review_count": 4188,
+            "categories": [
+                {
+                    "alias": "sushi",
+                    "title": "Sushi Bars"
+                },
+                {
+                    "alias": "japanese",
+                    "title": "Japanese"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 34.0470000646326,
+                "longitude": -118.238502456345
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$$",
+            "location": {
+                "address1": "422 E 2nd St",
+                "address2": "",
+                "address3": "",
+                "city": "Los Angeles",
+                "zip_code": "90012",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "422 E 2nd St",
+                    "Los Angeles, CA 90012"
+                ]
+            },
+            "phone": "+12136170552",
+            "display_phone": "(213) 617-0552",
+            "distance": 7804.417164122366
+        },
+        {
+            "id": "fD4ntpbf92ufSHn5tSmSxA",
+            "alias": "desano-pizza-bakery-los-angeles",
+            "name": "DeSano Pizza Bakery",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/uPUePX2lRk6fkAObl37X9w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/desano-pizza-bakery-los-angeles?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
+            "review_count": 1651,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "italian",
+                    "title": "Italian"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 34.0910099739038,
+                "longitude": -118.297762911045
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
             "price": "$$",
             "location": {
-                "address1": "1739 Plymouth Rd",
+                "address1": "4959 Santa Monica Blvd",
                 "address2": null,
                 "address3": "",
-                "city": "Ann Arbor",
-                "zip_code": "48105",
+                "city": "Los Angeles",
+                "zip_code": "90029",
                 "country": "US",
-                "state": "MI",
+                "state": "CA",
                 "display_address": [
-                    "1739 Plymouth Rd",
-                    "Ann Arbor, MI 48105"
+                    "4959 Santa Monica Blvd",
+                    "Los Angeles, CA 90029"
                 ]
             },
-            "phone": "+17346622877",
-            "display_phone": "(734) 662-2877",
-            "distance": 3125.634249041924
+            "phone": "+13239137000",
+            "display_phone": "(323) 913-7000",
+            "distance": 3918.1579506745306
         },
         {
-            "id": "1eHZYJdIAZJCL2HCb-lPXw",
-            "alias": "afternoon-delight-ann-arbor-2",
-            "name": "Afternoon Delight",
-            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/1uEN5Lxj8eVZ4b-QpcHcTw/o.jpg",
+            "id": "88kri8FhXy8b3DQ_QjSMmQ",
+            "alias": "l-antica-pizzeria-da-michele-los-angeles-2",
+            "name": "L'Antica Pizzeria Da Michele",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/SCuuHjFSwNpuYxpncVDs9w/o.jpg",
             "is_closed": false,
-            "url": "https://www.yelp.com/biz/afternoon-delight-ann-arbor-2?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
-            "review_count": 380,
+            "url": "https://www.yelp.com/biz/l-antica-pizzeria-da-michele-los-angeles-2?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
+            "review_count": 1755,
             "categories": [
                 {
-                    "alias": "tradamerican",
-                    "title": "American (Traditional)"
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "italian",
+                    "title": "Italian"
                 },
                 {
                     "alias": "breakfast_brunch",
                     "title": "Breakfast & Brunch"
                 }
             ],
-            "rating": 4.0,
-            "coordinates": {
-                "latitude": 42.2796135,
-                "longitude": -83.7467957
-            },
-            "transactions": [
-                "delivery"
-            ],
-            "price": "$$",
-            "location": {
-                "address1": "251 E Liberty St",
-                "address2": "",
-                "address3": "",
-                "city": "Ann Arbor",
-                "zip_code": "48104",
-                "country": "US",
-                "state": "MI",
-                "display_address": [
-                    "251 E Liberty St",
-                    "Ann Arbor, MI 48104"
-                ]
-            },
-            "phone": "+17346657513",
-            "display_phone": "(734) 665-7513",
-            "distance": 990.255238804619
-        },
-        {
-            "id": "DjBkZ54eI8S3HuPbBtewyQ",
-            "alias": "nichols-arboretum-ann-arbor",
-            "name": "Nichols Arboretum",
-            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/bTIHmZjPufPPL2Xocewe4w/o.jpg",
-            "is_closed": false,
-            "url": "https://www.yelp.com/biz/nichols-arboretum-ann-arbor?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
-            "review_count": 118,
-            "categories": [
-                {
-                    "alias": "parks",
-                    "title": "Parks"
-                }
-            ],
             "rating": 4.5,
             "coordinates": {
-                "latitude": 42.2813875044681,
-                "longitude": -83.7266266199722
+                "latitude": 34.09906082844746,
+                "longitude": -118.33731072728862
             },
-            "transactions": [],
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$$",
             "location": {
-                "address1": "1600 Washington Hts",
+                "address1": "1534 N Mccadden Pl",
+                "address2": "",
+                "address3": null,
+                "city": "Los Angeles",
+                "zip_code": "90028",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1534 N Mccadden Pl",
+                    "Los Angeles, CA 90028"
+                ]
+            },
+            "phone": "+13233662408",
+            "display_phone": "(323) 366-2408",
+            "distance": 4408.86657084386
+        },
+        {
+            "id": "q8buTNBt3FU9vie0D5OOxA",
+            "alias": "pizzeria-mozza-los-angeles-4",
+            "name": "Pizzeria Mozza",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/aq58AXCrdVnOF_3mQnVJHg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/pizzeria-mozza-los-angeles-4?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
+            "review_count": 4547,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 34.083107,
+                "longitude": -118.338883
+            },
+            "transactions": [
+                "delivery"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "641 N Highland Ave",
                 "address2": "",
                 "address3": "",
-                "city": "Ann Arbor",
-                "zip_code": "48104",
+                "city": "Los Angeles",
+                "zip_code": "90036",
                 "country": "US",
-                "state": "MI",
+                "state": "CA",
                 "display_address": [
-                    "1600 Washington Hts",
-                    "Ann Arbor, MI 48104"
+                    "641 N Highland Ave",
+                    "Los Angeles, CA 90036"
                 ]
             },
-            "phone": "+17349989540",
-            "display_phone": "(734) 998-9540",
-            "distance": 1180.2710394806638
+            "phone": "+13232970101",
+            "display_phone": "(323) 297-0101",
+            "distance": 2878.5590259548203
         },
         {
-            "id": "YW8P3qfoLuGGZmHhTG1sgg",
-            "alias": "the-chop-house-ann-arbor",
-            "name": "The Chop House",
-            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/fmmrQ-2fDqDIOygJ5cjdbw/o.jpg",
+            "id": "iSZpZgVnASwEmlq0DORY2A",
+            "alias": "daikokuya-little-tokyo-los-angeles",
+            "name": "Daikokuya Little Tokyo",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/lAmY2NB2tIqcWRb8TSXX1g/o.jpg",
             "is_closed": false,
-            "url": "https://www.yelp.com/biz/the-chop-house-ann-arbor?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
-            "review_count": 505,
+            "url": "https://www.yelp.com/biz/daikokuya-little-tokyo-los-angeles?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
+            "review_count": 9339,
             "categories": [
-                {
-                    "alias": "steak",
-                    "title": "Steakhouses"
-                }
-            ],
-            "rating": 4.0,
-            "coordinates": {
-                "latitude": 42.278852368943284,
-                "longitude": -83.74890507157316
-            },
-            "transactions": [
-                "pickup",
-                "delivery"
-            ],
-            "price": "$$$$",
-            "location": {
-                "address1": "322 S Main St",
-                "address2": "",
-                "address3": "",
-                "city": "Ann Arbor",
-                "zip_code": "48104",
-                "country": "US",
-                "state": "MI",
-                "display_address": [
-                    "322 S Main St",
-                    "Ann Arbor, MI 48104"
-                ]
-            },
-            "phone": "+17346698826",
-            "display_phone": "(734) 669-8826",
-            "distance": 1109.5593641275248
-        },
-        {
-            "id": "b0xqlnHLepqnVMDOa0g3Sw",
-            "alias": "the-last-word-ann-arbor",
-            "name": "The Last Word",
-            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/7IrrF9b8xMCxP8quJN4R-Q/o.jpg",
-            "is_closed": false,
-            "url": "https://www.yelp.com/biz/the-last-word-ann-arbor?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
-            "review_count": 292,
-            "categories": [
-                {
-                    "alias": "bars",
-                    "title": "Bars"
-                }
-            ],
-            "rating": 4.0,
-            "coordinates": {
-                "latitude": 42.28131,
-                "longitude": -83.75128
-            },
-            "transactions": [
-                "delivery"
-            ],
-            "price": "$$",
-            "location": {
-                "address1": "301 W Huron St",
-                "address2": "",
-                "address3": "",
-                "city": "Ann Arbor",
-                "zip_code": "48104",
-                "country": "US",
-                "state": "MI",
-                "display_address": [
-                    "301 W Huron St",
-                    "Ann Arbor, MI 48104"
-                ]
-            },
-            "phone": "",
-            "display_phone": "",
-            "distance": 1445.0821018603344
-        },
-        {
-            "id": "77RZfv_ReYKk9r9-oCk0sA",
-            "alias": "el-harissa-market-cafe-ann-arbor",
-            "name": "El Harissa Market Cafe",
-            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/qExOoDWoNm6jtPGa1XcXjA/o.jpg",
-            "is_closed": false,
-            "url": "https://www.yelp.com/biz/el-harissa-market-cafe-ann-arbor?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
-            "review_count": 159,
-            "categories": [
-                {
-                    "alias": "mediterranean",
-                    "title": "Mediterranean"
-                },
-                {
-                    "alias": "african",
-                    "title": "African"
-                },
-                {
-                    "alias": "gelato",
-                    "title": "Gelato"
-                }
-            ],
-            "rating": 4.5,
-            "coordinates": {
-                "latitude": 42.2955801794467,
-                "longitude": -83.7801288125661
-            },
-            "transactions": [
-                "delivery"
-            ],
-            "price": "$$",
-            "location": {
-                "address1": "1516 N Maple Rd",
-                "address2": null,
-                "address3": "",
-                "city": "Ann Arbor",
-                "zip_code": "48103",
-                "country": "US",
-                "state": "MI",
-                "display_address": [
-                    "1516 N Maple Rd",
-                    "Ann Arbor, MI 48103"
-                ]
-            },
-            "phone": "+17345850686",
-            "display_phone": "(734) 585-0686",
-            "distance": 4280.5490958242135
-        },
-        {
-            "id": "BhZXkAaxcQ432TmTYhY2pg",
-            "alias": "sushi-town-ann-arbor",
-            "name": "Sushi Town",
-            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/1z1R_IueHB0gXfvgu_AWPw/o.jpg",
-            "is_closed": false,
-            "url": "https://www.yelp.com/biz/sushi-town-ann-arbor?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
-            "review_count": 271,
-            "categories": [
-                {
-                    "alias": "sushi",
-                    "title": "Sushi Bars"
-                }
-            ],
-            "rating": 4.5,
-            "coordinates": {
-                "latitude": 42.26962,
-                "longitude": -83.7398599
-            },
-            "transactions": [
-                "delivery"
-            ],
-            "price": "$$",
-            "location": {
-                "address1": "740 Packard St",
-                "address2": null,
-                "address3": "",
-                "city": "Ann Arbor",
-                "zip_code": "48104",
-                "country": "US",
-                "state": "MI",
-                "display_address": [
-                    "740 Packard St",
-                    "Ann Arbor, MI 48104"
-                ]
-            },
-            "phone": "+17343278646",
-            "display_phone": "(734) 327-8646",
-            "distance": 430.69797099686303
-        },
-        {
-            "id": "qkw4xWWgTufvBs1NcxsFnw",
-            "alias": "vinology-restaurant-and-event-space-ann-arbor",
-            "name": "Vinology Restaurant & Event Space",
-            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/CSeRqGYcpvVsDiqY_NoV2w/o.jpg",
-            "is_closed": false,
-            "url": "https://www.yelp.com/biz/vinology-restaurant-and-event-space-ann-arbor?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
-            "review_count": 510,
-            "categories": [
-                {
-                    "alias": "newamerican",
-                    "title": "American (New)"
-                },
-                {
-                    "alias": "bars",
-                    "title": "Bars"
-                },
-                {
-                    "alias": "venues",
-                    "title": "Venues & Event Spaces"
-                }
-            ],
-            "rating": 4.0,
-            "coordinates": {
-                "latitude": 42.281052,
-                "longitude": -83.7486748
-            },
-            "transactions": [
-                "delivery"
-            ],
-            "price": "$$",
-            "location": {
-                "address1": "110 S Main St",
-                "address2": null,
-                "address3": "",
-                "city": "Ann Arbor",
-                "zip_code": "48104",
-                "country": "US",
-                "state": "MI",
-                "display_address": [
-                    "110 S Main St",
-                    "Ann Arbor, MI 48104"
-                ]
-            },
-            "phone": "+17342229841",
-            "display_phone": "(734) 222-9841",
-            "distance": 1250.6744532539503
-        },
-        {
-            "id": "vZmO07MjqPazetJkVoG11g",
-            "alias": "annas-house-ann-arbor-ann-arbor-3",
-            "name": "Anna's House - Ann Arbor",
-            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/f_GWa_Kzw3tNidxSPNkiBQ/o.jpg",
-            "is_closed": false,
-            "url": "https://www.yelp.com/biz/annas-house-ann-arbor-ann-arbor-3?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
-            "review_count": 505,
-            "categories": [
-                {
-                    "alias": "breakfast_brunch",
-                    "title": "Breakfast & Brunch"
-                },
-                {
-                    "alias": "newamerican",
-                    "title": "American (New)"
-                },
-                {
-                    "alias": "tradamerican",
-                    "title": "American (Traditional)"
-                }
-            ],
-            "rating": 4.0,
-            "coordinates": {
-                "latitude": 42.2446145,
-                "longitude": -83.74178617
-            },
-            "transactions": [
-                "pickup",
-                "delivery"
-            ],
-            "price": "$$",
-            "location": {
-                "address1": "445 E Eisenhower Pkwy",
-                "address2": "Ste 1",
-                "address3": "",
-                "city": "Ann Arbor",
-                "zip_code": "48108",
-                "country": "US",
-                "state": "MI",
-                "display_address": [
-                    "445 E Eisenhower Pkwy",
-                    "Ste 1",
-                    "Ann Arbor, MI 48108"
-                ]
-            },
-            "phone": "+17347269490",
-            "display_phone": "(734) 726-9490",
-            "distance": 3210.632438438229
-        },
-        {
-            "id": "6yjTZfR3dxb77XoFKT8U1w",
-            "alias": "slurping-turtle-ann-arbor",
-            "name": "Slurping Turtle",
-            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/eMhMZv1t4CtJI6vwBGhctA/o.jpg",
-            "is_closed": false,
-            "url": "https://www.yelp.com/biz/slurping-turtle-ann-arbor?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
-            "review_count": 613,
-            "categories": [
-                {
-                    "alias": "sushi",
-                    "title": "Sushi Bars"
-                },
                 {
                     "alias": "ramen",
                     "title": "Ramen"
-                }
-            ],
-            "rating": 3.5,
-            "coordinates": {
-                "latitude": 42.27915,
-                "longitude": -83.74155
-            },
-            "transactions": [
-                "pickup",
-                "delivery"
-            ],
-            "price": "$$",
-            "location": {
-                "address1": "608 E Liberty St",
-                "address2": "",
-                "address3": "",
-                "city": "Ann Arbor",
-                "zip_code": "48104",
-                "country": "US",
-                "state": "MI",
-                "display_address": [
-                    "608 E Liberty St",
-                    "Ann Arbor, MI 48104"
-                ]
-            },
-            "phone": "+17348876868",
-            "display_phone": "(734) 887-6868",
-            "distance": 730.4386068252984
-        },
-        {
-            "id": "IotuxJ8M1kDe9lK-cd1asQ",
-            "alias": "comet-coffee-ann-arbor",
-            "name": "Comet Coffee",
-            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/dc9cbUfCjxEKhq6DLLS3Gw/o.jpg",
-            "is_closed": false,
-            "url": "https://www.yelp.com/biz/comet-coffee-ann-arbor?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
-            "review_count": 273,
-            "categories": [
+                },
                 {
-                    "alias": "coffee",
-                    "title": "Coffee & Tea"
+                    "alias": "noodles",
+                    "title": "Noodles"
                 }
             ],
             "rating": 4.0,
             "coordinates": {
-                "latitude": 42.2784368818938,
-                "longitude": -83.7414034863831
+                "latitude": 34.05008090944,
+                "longitude": -118.2401804513
             },
             "transactions": [
-                "delivery"
+                "delivery",
+                "pickup"
             ],
             "price": "$$",
             "location": {
-                "address1": "16 Nickels Arcade",
+                "address1": "327 E 1st St",
                 "address2": "",
                 "address3": "",
-                "city": "Ann Arbor",
-                "zip_code": "48104",
+                "city": "Los Angeles",
+                "zip_code": "90012",
                 "country": "US",
-                "state": "MI",
+                "state": "CA",
                 "display_address": [
-                    "16 Nickels Arcade",
-                    "Ann Arbor, MI 48104"
+                    "327 E 1st St",
+                    "Los Angeles, CA 90012"
                 ]
             },
-            "phone": "+17342220579",
-            "display_phone": "(734) 222-0579",
-            "distance": 653.8851788672105
+            "phone": "+12136261680",
+            "display_phone": "(213) 626-1680",
+            "distance": 7587.497123102202
         },
         {
-            "id": "qWMfIzMymWBxgGR_NAaTsA",
-            "alias": "zingermans-bakehouse-ann-arbor-2",
-            "name": "Zingerman's Bakehouse",
-            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/LOe1HJ59VLiyBZZAellk2A/o.jpg",
+            "id": "KtEMG1Aln3vQzte92QJxlw",
+            "alias": "genwa-korean-bbq-mid-wilshire-los-angeles",
+            "name": "Genwa Korean BBQ Mid Wilshire",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/PDf5OepGu6awz-Wi_dX0tA/o.jpg",
             "is_closed": false,
-            "url": "https://www.yelp.com/biz/zingermans-bakehouse-ann-arbor-2?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
-            "review_count": 249,
+            "url": "https://www.yelp.com/biz/genwa-korean-bbq-mid-wilshire-los-angeles?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
+            "review_count": 3065,
             "categories": [
                 {
-                    "alias": "bakeries",
-                    "title": "Bakeries"
+                    "alias": "korean",
+                    "title": "Korean"
                 },
                 {
-                    "alias": "cookingschools",
-                    "title": "Cooking Schools"
+                    "alias": "bbq",
+                    "title": "Barbeque"
                 },
                 {
-                    "alias": "customcakes",
-                    "title": "Custom Cakes"
+                    "alias": "seafood",
+                    "title": "Seafood"
                 }
             ],
             "rating": 4.5,
             "coordinates": {
-                "latitude": 42.23282107364595,
-                "longitude": -83.74782611035549
+                "latitude": 34.062321315088,
+                "longitude": -118.340898970219
             },
             "transactions": [
-                "delivery"
+                "delivery",
+                "pickup"
             ],
             "price": "$$",
             "location": {
-                "address1": "3711 Plaza Dr",
+                "address1": "5115 Wilshire Blvd",
                 "address2": "",
                 "address3": "",
-                "city": "Ann Arbor",
-                "zip_code": "48108",
+                "city": "Los Angeles",
+                "zip_code": "90036",
                 "country": "US",
-                "state": "MI",
+                "state": "CA",
                 "display_address": [
-                    "3711 Plaza Dr",
-                    "Ann Arbor, MI 48108"
+                    "5115 Wilshire Blvd",
+                    "Los Angeles, CA 90036"
                 ]
             },
-            "phone": "+17347612095",
-            "display_phone": "(734) 761-2095",
-            "distance": 4565.03358531927
+            "phone": "+13235490760",
+            "display_phone": "(323) 549-0760",
+            "distance": 1802.8195809793317
         },
         {
-            "id": "1Qg4on8FTh6Yi27Eyuxm7w",
-            "alias": "everest-sherpa-restaurant-ann-arbor",
-            "name": "Everest Sherpa Restaurant",
-            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/h1vqwN4X3z2M-qOVH6gApA/o.jpg",
+            "id": "BSUDJiaKZwbB8G-GTUst_g",
+            "alias": "beauty-and-essex-los-angeles",
+            "name": "Beauty & Essex",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/OREZk7Wx9HYfobSfatn8QQ/o.jpg",
             "is_closed": false,
-            "url": "https://www.yelp.com/biz/everest-sherpa-restaurant-ann-arbor?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
-            "review_count": 258,
+            "url": "https://www.yelp.com/biz/beauty-and-essex-los-angeles?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
+            "review_count": 1541,
             "categories": [
                 {
-                    "alias": "himalayan",
-                    "title": "Himalayan/Nepalese"
+                    "alias": "lounges",
+                    "title": "Lounges"
                 },
                 {
-                    "alias": "indpak",
-                    "title": "Indian"
+                    "alias": "newamerican",
+                    "title": "American (New)"
                 }
             ],
-            "rating": 4.5,
+            "rating": 4.0,
             "coordinates": {
-                "latitude": 42.2459715062184,
-                "longitude": -83.7690518386809
+                "latitude": 34.1001997,
+                "longitude": -118.3297411
             },
             "transactions": [
-                "pickup",
-                "delivery"
+                "delivery",
+                "pickup"
             ],
-            "price": "$$",
+            "price": "$$$",
             "location": {
-                "address1": "2803 Oak Valley Dr",
+                "address1": "1615 Cahuenga Blvd",
                 "address2": null,
-                "address3": "",
-                "city": "Ann Arbor",
-                "zip_code": "48103",
+                "address3": null,
+                "city": "Los Angeles",
+                "zip_code": "90028",
                 "country": "US",
-                "state": "MI",
+                "state": "CA",
                 "display_address": [
-                    "2803 Oak Valley Dr",
-                    "Ann Arbor, MI 48103"
+                    "1615 Cahuenga Blvd",
+                    "Los Angeles, CA 90028"
                 ]
             },
-            "phone": "+17349975490",
-            "display_phone": "(734) 997-5490",
-            "distance": 3972.805441090697
+            "phone": "+13236768880",
+            "display_phone": "(323) 676-8880",
+            "distance": 4352.2944659703235
         },
         {
-            "id": "j7Ukf82vXmCYImj2smZkWQ",
-            "alias": "first-bite-ann-arbor-2",
-            "name": "First Bite",
-            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/9HOBoEXOZ3UKF0b2wO3uMQ/o.jpg",
+            "id": "Wjckf5QPdVQw1ZG82zEarA",
+            "alias": "m-grill-los-angeles",
+            "name": "M Grill",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/l5h6ip2CUAfXzEnmmAexrA/o.jpg",
             "is_closed": false,
-            "url": "https://www.yelp.com/biz/first-bite-ann-arbor-2?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
-            "review_count": 142,
+            "url": "https://www.yelp.com/biz/m-grill-los-angeles?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
+            "review_count": 2457,
             "categories": [
+                {
+                    "alias": "brazilian",
+                    "title": "Brazilian"
+                },
+                {
+                    "alias": "steak",
+                    "title": "Steakhouses"
+                },
+                {
+                    "alias": "wine_bars",
+                    "title": "Wine Bars"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 34.06142,
+                "longitude": -118.310424
+            },
+            "transactions": [
+                "restaurant_reservation",
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$$$",
+            "location": {
+                "address1": "3832 Wilshire Blvd",
+                "address2": "Fl 2, Ste 202",
+                "address3": "",
+                "city": "Los Angeles",
+                "zip_code": "90010",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "3832 Wilshire Blvd",
+                    "Fl 2, Ste 202",
+                    "Los Angeles, CA 90010"
+                ]
+            },
+            "phone": "+12133892770",
+            "display_phone": "(213) 389-2770",
+            "distance": 1004.7389853585506
+        },
+        {
+            "id": "0z23Jk7U_MpvtqKINPL2fA",
+            "alias": "dirt-dog-los-angeles-4",
+            "name": "Dirt Dog",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/EPepO4WcY7X_q98Ttt7yqg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/dirt-dog-los-angeles-4?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
+            "review_count": 2660,
+            "categories": [
+                {
+                    "alias": "hotdog",
+                    "title": "Hot Dogs"
+                },
+                {
+                    "alias": "beerbar",
+                    "title": "Beer Bar"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 34.0282923762355,
+                "longitude": -118.275208244705
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "2528 S Figueroa St",
+                "address2": "",
+                "address3": "",
+                "city": "Los Angeles",
+                "zip_code": "90007",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "2528 S Figueroa St",
+                    "Los Angeles, CA 90007"
+                ]
+            },
+            "phone": "+12137491813",
+            "display_phone": "(213) 749-1813",
+            "distance": 5643.800935548472
+        },
+        {
+            "id": "KQBGm5G8IDkE8LeNY45mbA",
+            "alias": "wurstküche-los-angeles-2",
+            "name": "Wurstküche",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/gWIbvLDR1Y6yfTGTzXp_lw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/wurstk%C3%BCche-los-angeles-2?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
+            "review_count": 8942,
+            "categories": [
+                {
+                    "alias": "hotdog",
+                    "title": "Hot Dogs"
+                },
+                {
+                    "alias": "german",
+                    "title": "German"
+                },
+                {
+                    "alias": "gastropubs",
+                    "title": "Gastropubs"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 34.0456047058105,
+                "longitude": -118.236061096191
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "800 E 3rd St",
+                "address2": "",
+                "address3": "",
+                "city": "Los Angeles",
+                "zip_code": "90013",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "800 E 3rd St",
+                    "Los Angeles, CA 90013"
+                ]
+            },
+            "phone": "+12136874444",
+            "display_phone": "(213) 687-4444",
+            "distance": 8057.8719290965655
+        },
+        {
+            "id": "BDRVlHnK4l0T0ANb7M-Eqg",
+            "alias": "guisados-los-angeles-3",
+            "name": "Guisados",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/JqGxcZ8L2TmRLYRNf59G_g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/guisados-los-angeles-3?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
+            "review_count": 2380,
+            "categories": [
+                {
+                    "alias": "mexican",
+                    "title": "Mexican"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 34.0702395145121,
+                "longitude": -118.250448424643
+            },
+            "transactions": [
+                "delivery",
+                "pickup"
+            ],
+            "price": "$$",
+            "location": {
+                "address1": "1261 W Sunset Blvd",
+                "address2": "",
+                "address3": "",
+                "city": "Los Angeles",
+                "zip_code": "90026",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1261 W Sunset Blvd",
+                    "Los Angeles, CA 90026"
+                ]
+            },
+            "phone": "+12132507600",
+            "display_phone": "(213) 250-7600",
+            "distance": 6599.312750275324
+        },
+        {
+            "id": "y2eWXL2qbTW8tXyrEsfEqQ",
+            "alias": "bacari-w-3rd-los-angeles",
+            "name": "Bacari W 3rd",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/M_LLLThdYRdoW_mRAk5uNw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/bacari-w-3rd-los-angeles?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
+            "review_count": 977,
+            "categories": [
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
+                },
                 {
                     "alias": "breakfast_brunch",
                     "title": "Breakfast & Brunch"
                 },
                 {
-                    "alias": "gluten_free",
-                    "title": "Gluten-Free"
-                },
-                {
-                    "alias": "coffee",
-                    "title": "Coffee & Tea"
+                    "alias": "italian",
+                    "title": "Italian"
                 }
             ],
             "rating": 4.5,
             "coordinates": {
-                "latitude": 42.2811,
-                "longitude": -83.7489
+                "latitude": 34.07172,
+                "longitude": -118.36485
             },
             "transactions": [
-                "pickup",
-                "delivery"
+                "delivery",
+                "pickup"
             ],
             "price": "$$",
             "location": {
-                "address1": "108 S Main St",
+                "address1": "8030 3/4 W 3rd St",
                 "address2": "",
                 "address3": null,
-                "city": "Ann Arbor",
-                "zip_code": "48104",
+                "city": "Los Angeles",
+                "zip_code": "90048",
                 "country": "US",
-                "state": "MI",
+                "state": "CA",
                 "display_address": [
-                    "108 S Main St",
-                    "Ann Arbor, MI 48104"
+                    "8030 3/4 W 3rd St",
+                    "Los Angeles, CA 90048"
                 ]
             },
-            "phone": "+17343694765",
-            "display_phone": "(734) 369-4765",
-            "distance": 1273.4561646485631
+            "phone": "+12139332327",
+            "display_phone": "(213) 933-2327",
+            "distance": 4163.933659024958
         },
         {
-            "id": "VHDAE52neVc98wztSED0jA",
-            "alias": "pilars-tamales-ann-arbor",
-            "name": "Pilar's Tamales",
-            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/MEyQXbzfuAYAXNHbPA3q6Q/o.jpg",
+            "id": "HTFByVH44biQsc_R8sEOjg",
+            "alias": "bcd-tofu-house-los-angeles",
+            "name": "BCD Tofu House",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/7wKAvjioaYj9DwAft2Nv8w/o.jpg",
             "is_closed": false,
-            "url": "https://www.yelp.com/biz/pilars-tamales-ann-arbor?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
-            "review_count": 179,
+            "url": "https://www.yelp.com/biz/bcd-tofu-house-los-angeles?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
+            "review_count": 4886,
             "categories": [
                 {
-                    "alias": "latin",
-                    "title": "Latin American"
-                }
-            ],
-            "rating": 4.5,
-            "coordinates": {
-                "latitude": 42.273649,
-                "longitude": -83.777535
-            },
-            "transactions": [
-                "delivery"
-            ],
-            "price": "$",
-            "location": {
-                "address1": "2261 W Liberty St",
-                "address2": "",
-                "address3": "",
-                "city": "Ann Arbor",
-                "zip_code": "48103",
-                "country": "US",
-                "state": "MI",
-                "display_address": [
-                    "2261 W Liberty St",
-                    "Ann Arbor, MI 48103"
-                ]
-            },
-            "phone": "+17349294161",
-            "display_phone": "(734) 929-4161",
-            "distance": 3270.272571438834
-        },
-        {
-            "id": "Hib4RlzXOcHcAFHvDjnlHA",
-            "alias": "haifa-falafel-ann-arbor",
-            "name": "Haifa Falafel",
-            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/PVQQsOvn-vuD8fK1obeJbA/o.jpg",
-            "is_closed": false,
-            "url": "https://www.yelp.com/biz/haifa-falafel-ann-arbor?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
-            "review_count": 417,
-            "categories": [
-                {
-                    "alias": "mideastern",
-                    "title": "Middle Eastern"
-                },
-                {
-                    "alias": "falafel",
-                    "title": "Falafel"
-                },
-                {
-                    "alias": "halal",
-                    "title": "Halal"
+                    "alias": "korean",
+                    "title": "Korean"
                 }
             ],
             "rating": 4.0,
             "coordinates": {
-                "latitude": 42.252522,
-                "longitude": -83.667603
+                "latitude": 34.0620862485445,
+                "longitude": -118.302658449143
             },
             "transactions": [
-                "pickup",
-                "delivery"
+                "delivery",
+                "pickup"
             ],
-            "price": "$",
+            "price": "$$",
             "location": {
-                "address1": "4585 Washtenaw Ave",
+                "address1": "3575 Wilshire Blvd",
                 "address2": "",
                 "address3": "",
-                "city": "Ann Arbor",
-                "zip_code": "48108",
+                "city": "Los Angeles",
+                "zip_code": "90010",
                 "country": "US",
-                "state": "MI",
+                "state": "CA",
                 "display_address": [
-                    "4585 Washtenaw Ave",
-                    "Ann Arbor, MI 48108"
+                    "3575 Wilshire Blvd",
+                    "Los Angeles, CA 90010"
                 ]
             },
-            "phone": "+17346774410",
-            "display_phone": "(734) 677-4410",
-            "distance": 6106.36085020257
+            "phone": "+12133826677",
+            "display_phone": "(213) 382-6677",
+            "distance": 1721.7902213911839
         },
         {
-            "id": "NgQdY3WBIFQiJOrJ-PmawA",
-            "alias": "spencer-ann-arbor-2",
-            "name": "Spencer",
-            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/IlxUj0Y83VD_TlsMe7HdlQ/o.jpg",
+            "id": "BAnC30_CaFiBOd6Fv9KgBg",
+            "alias": "animal-los-angeles-2",
+            "name": "Animal",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/DLmPBA21AcBd5c1vPmjr3w/o.jpg",
             "is_closed": false,
-            "url": "https://www.yelp.com/biz/spencer-ann-arbor-2?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
-            "review_count": 190,
+            "url": "https://www.yelp.com/biz/animal-los-angeles-2?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
+            "review_count": 3430,
             "categories": [
                 {
                     "alias": "newamerican",
@@ -1719,543 +2159,184 @@
                     "title": "Wine Bars"
                 }
             ],
-            "rating": 4.5,
-            "coordinates": {
-                "latitude": 42.2796619222548,
-                "longitude": -83.7478985264897
-            },
-            "transactions": [],
-            "price": "$$",
-            "location": {
-                "address1": "113 E Liberty St",
-                "address2": "",
-                "address3": "",
-                "city": "Ann Arbor",
-                "zip_code": "48104",
-                "country": "US",
-                "state": "MI",
-                "display_address": [
-                    "113 E Liberty St",
-                    "Ann Arbor, MI 48104"
-                ]
-            },
-            "phone": "+17343693979",
-            "display_phone": "(734) 369-3979",
-            "distance": 1099.0194862446515
-        },
-        {
-            "id": "M3wssPEKzZb3hm4P0UmCdQ",
-            "alias": "grizzly-peak-brewing-company-ann-arbor-2",
-            "name": "Grizzly Peak Brewing Company",
-            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/P0HqmkXgx-9crdlTB9MC-A/o.jpg",
-            "is_closed": false,
-            "url": "https://www.yelp.com/biz/grizzly-peak-brewing-company-ann-arbor-2?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
-            "review_count": 611,
-            "categories": [
-                {
-                    "alias": "breweries",
-                    "title": "Breweries"
-                },
-                {
-                    "alias": "tradamerican",
-                    "title": "American (Traditional)"
-                },
-                {
-                    "alias": "pubs",
-                    "title": "Pubs"
-                }
-            ],
-            "rating": 3.5,
-            "coordinates": {
-                "latitude": 42.2806289,
-                "longitude": -83.7488893
-            },
-            "transactions": [
-                "delivery"
-            ],
-            "price": "$$",
-            "location": {
-                "address1": "120 W Washington St",
-                "address2": "Ste 1",
-                "address3": "",
-                "city": "Ann Arbor",
-                "zip_code": "48104",
-                "country": "US",
-                "state": "MI",
-                "display_address": [
-                    "120 W Washington St",
-                    "Ste 1",
-                    "Ann Arbor, MI 48104"
-                ]
-            },
-            "phone": "+17347417325",
-            "display_phone": "(734) 741-7325",
-            "distance": 1279.3990871334277
-        },
-        {
-            "id": "-xa1GovhW-gobtwSuXZmWg",
-            "alias": "dimos-deli-and-donuts-ann-arbor",
-            "name": "Dimo's Deli and Donuts",
-            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/XnuPGh7FMQ_gW7o9Qt6Hqg/o.jpg",
-            "is_closed": false,
-            "url": "https://www.yelp.com/biz/dimos-deli-and-donuts-ann-arbor?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
-            "review_count": 234,
-            "categories": [
-                {
-                    "alias": "delis",
-                    "title": "Delis"
-                },
-                {
-                    "alias": "donuts",
-                    "title": "Donuts"
-                }
-            ],
-            "rating": 4.5,
-            "coordinates": {
-                "latitude": 42.27102,
-                "longitude": -83.77391
-            },
-            "transactions": [
-                "delivery"
-            ],
-            "price": "$",
-            "location": {
-                "address1": "2030 W Stadium Blvd",
-                "address2": "",
-                "address3": "",
-                "city": "Ann Arbor",
-                "zip_code": "48103",
-                "country": "US",
-                "state": "MI",
-                "display_address": [
-                    "2030 W Stadium Blvd",
-                    "Ann Arbor, MI 48103"
-                ]
-            },
-            "phone": "+17346627944",
-            "display_phone": "(734) 662-7944",
-            "distance": 2966.5008771112384
-        },
-        {
-            "id": "1m4ftmR0tbD3cY9w0L4cBw",
-            "alias": "momo-sushi-ann-arbor-2",
-            "name": "Momo Sushi",
-            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/p31YAhZbqXSs8Xy3O82mYg/o.jpg",
-            "is_closed": false,
-            "url": "https://www.yelp.com/biz/momo-sushi-ann-arbor-2?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
-            "review_count": 184,
-            "categories": [
-                {
-                    "alias": "japanese",
-                    "title": "Japanese"
-                },
-                {
-                    "alias": "sushi",
-                    "title": "Sushi Bars"
-                }
-            ],
-            "rating": 4.5,
-            "coordinates": {
-                "latitude": 42.24519215121,
-                "longitude": -83.7582424655557
-            },
-            "transactions": [
-                "delivery"
-            ],
-            "price": "$$",
-            "location": {
-                "address1": "895 W Eisenhower Pkwy",
-                "address2": "",
-                "address3": null,
-                "city": "Ann Arbor",
-                "zip_code": "48103",
-                "country": "US",
-                "state": "MI",
-                "display_address": [
-                    "895 W Eisenhower Pkwy",
-                    "Ann Arbor, MI 48103"
-                ]
-            },
-            "phone": "+17348004909",
-            "display_phone": "(734) 800-4909",
-            "distance": 3539.77373499281
-        },
-        {
-            "id": "-rHwnEsdozf5894oV-J5jQ",
-            "alias": "washtenaw-dairy-ann-arbor",
-            "name": "Washtenaw Dairy",
-            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Mgc2_SRSk3vbggJyKLJ6XA/o.jpg",
-            "is_closed": false,
-            "url": "https://www.yelp.com/biz/washtenaw-dairy-ann-arbor?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
-            "review_count": 259,
-            "categories": [
-                {
-                    "alias": "donuts",
-                    "title": "Donuts"
-                },
-                {
-                    "alias": "icecream",
-                    "title": "Ice Cream & Frozen Yogurt"
-                },
-                {
-                    "alias": "icedelivery",
-                    "title": "Ice Delivery"
-                }
-            ],
             "rating": 4.0,
             "coordinates": {
-                "latitude": 42.27388,
-                "longitude": -83.75039
-            },
-            "transactions": [
-                "pickup",
-                "delivery"
-            ],
-            "price": "$",
-            "location": {
-                "address1": "602 S Ashley St",
-                "address2": "",
-                "address3": "",
-                "city": "Ann Arbor",
-                "zip_code": "48103",
-                "country": "US",
-                "state": "MI",
-                "display_address": [
-                    "602 S Ashley St",
-                    "Ann Arbor, MI 48103"
-                ]
-            },
-            "phone": "+17346623244",
-            "display_phone": "(734) 662-3244",
-            "distance": 1041.6500629662326
-        },
-        {
-            "id": "iW2ErVQkmAVLTjNq22p1Cg",
-            "alias": "ricewood-ann-arbor",
-            "name": "Ricewood",
-            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/twSuYi12LFvQ9ubpOTN81w/o.jpg",
-            "is_closed": false,
-            "url": "https://www.yelp.com/biz/ricewood-ann-arbor?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
-            "review_count": 137,
-            "categories": [
-                {
-                    "alias": "bbq",
-                    "title": "Barbeque"
-                },
-                {
-                    "alias": "foodtrucks",
-                    "title": "Food Trucks"
-                }
-            ],
-            "rating": 4.5,
-            "coordinates": {
-                "latitude": 42.257678,
-                "longitude": -83.7281579
-            },
-            "transactions": [
-                "delivery"
-            ],
-            "price": "$$",
-            "location": {
-                "address1": "1928 Packard St",
-                "address2": "",
-                "address3": "",
-                "city": "Ann Arbor",
-                "zip_code": "48104",
-                "country": "US",
-                "state": "MI",
-                "display_address": [
-                    "1928 Packard St",
-                    "Ann Arbor, MI 48104"
-                ]
-            },
-            "phone": "+17344364163",
-            "display_phone": "(734) 436-4163",
-            "distance": 1899.178126572111
-        },
-        {
-            "id": "ChhOzAeGABcycHzjBbaYCA",
-            "alias": "taste-kitchen-ann-arbor",
-            "name": "Taste Kitchen",
-            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/gAZ95g5wHDk1nsdIK1Ob4Q/o.jpg",
-            "is_closed": false,
-            "url": "https://www.yelp.com/biz/taste-kitchen-ann-arbor?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
-            "review_count": 245,
-            "categories": [
-                {
-                    "alias": "desserts",
-                    "title": "Desserts"
-                },
-                {
-                    "alias": "seafood",
-                    "title": "Seafood"
-                },
-                {
-                    "alias": "bars",
-                    "title": "Bars"
-                }
-            ],
-            "rating": 4.0,
-            "coordinates": {
-                "latitude": 42.2795716828378,
-                "longitude": -83.7423401932133
+                "latitude": 34.079289,
+                "longitude": -118.361585
             },
             "transactions": [
                 "delivery"
             ],
             "price": "$$$",
             "location": {
-                "address1": "521 E Liberty St",
+                "address1": "435 N Fairfax Ave",
                 "address2": "",
                 "address3": "",
-                "city": "Ann Arbor",
-                "zip_code": "48104",
+                "city": "Los Angeles",
+                "zip_code": "90036",
                 "country": "US",
-                "state": "MI",
+                "state": "CA",
                 "display_address": [
-                    "521 E Liberty St",
-                    "Ann Arbor, MI 48104"
+                    "435 N Fairfax Ave",
+                    "Los Angeles, CA 90036"
                 ]
             },
-            "phone": "+17343694241",
-            "display_phone": "(734) 369-4241",
-            "distance": 801.38610810784
+            "phone": "+13237829225",
+            "display_phone": "(323) 782-9225",
+            "distance": 4191.898189045888
         },
         {
-            "id": "vONGfjuEYWtzvReseHJLrw",
-            "alias": "lab-ann-arbor",
-            "name": "Lab",
-            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/UE4vA3rrjAkgmQNeO1s7Gg/o.jpg",
+            "id": "xVSv26KBQexP4M0l63SGlg",
+            "alias": "alcove-cafe-and-bakery-los-angeles",
+            "name": "Alcove Café & Bakery",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/dOIdDlf-Da34-Xfv6x4V_w/o.jpg",
             "is_closed": false,
-            "url": "https://www.yelp.com/biz/lab-ann-arbor?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
-            "review_count": 257,
+            "url": "https://www.yelp.com/biz/alcove-cafe-and-bakery-los-angeles?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
+            "review_count": 4660,
             "categories": [
                 {
-                    "alias": "coffee",
-                    "title": "Coffee & Tea"
+                    "alias": "bakeries",
+                    "title": "Bakeries"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "newamerican",
+                    "title": "American (New)"
                 }
             ],
             "rating": 4.0,
             "coordinates": {
-                "latitude": 42.2795599,
-                "longitude": -83.74278
-            },
-            "transactions": [],
-            "price": "$$",
-            "location": {
-                "address1": "505 E Liberty",
-                "address2": "Ste 300",
-                "address3": "",
-                "city": "Ann Arbor",
-                "zip_code": "48104",
-                "country": "US",
-                "state": "MI",
-                "display_address": [
-                    "505 E Liberty",
-                    "Ste 300",
-                    "Ann Arbor, MI 48104"
-                ]
-            },
-            "phone": "+17342772444",
-            "display_phone": "(734) 277-2444",
-            "distance": 813.9398087287918
-        },
-        {
-            "id": "QzvW6jDg3hcPbwmf__JAUw",
-            "alias": "roosroast-liberty-ann-arbor-3",
-            "name": "RoosRoast Liberty",
-            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/6OCwshVTRnQFEBE2hUY6-w/o.jpg",
-            "is_closed": false,
-            "url": "https://www.yelp.com/biz/roosroast-liberty-ann-arbor-3?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
-            "review_count": 141,
-            "categories": [
-                {
-                    "alias": "cafes",
-                    "title": "Cafes"
-                },
-                {
-                    "alias": "coffeeroasteries",
-                    "title": "Coffee Roasteries"
-                },
-                {
-                    "alias": "sandwiches",
-                    "title": "Sandwiches"
-                }
-            ],
-            "rating": 4.5,
-            "coordinates": {
-                "latitude": 42.2796609300119,
-                "longitude": -83.7477365881205
-            },
-            "transactions": [
-                "delivery"
-            ],
-            "price": "$",
-            "location": {
-                "address1": "117 E Liberty St",
-                "address2": "",
-                "address3": null,
-                "city": "Ann Arbor",
-                "zip_code": "48104",
-                "country": "US",
-                "state": "MI",
-                "display_address": [
-                    "117 E Liberty St",
-                    "Ann Arbor, MI 48104"
-                ]
-            },
-            "phone": "+17343692494",
-            "display_phone": "(734) 369-2494",
-            "distance": 1088.9022652579029
-        },
-        {
-            "id": "BlUEgCOGzDwpOWnkQn3odw",
-            "alias": "cafe-zola-ann-arbor-3",
-            "name": "Cafe Zola",
-            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/9acX6eQP1ZBcaltc3XjscA/o.jpg",
-            "is_closed": false,
-            "url": "https://www.yelp.com/biz/cafe-zola-ann-arbor-3?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
-            "review_count": 877,
-            "categories": [
-                {
-                    "alias": "french",
-                    "title": "French"
-                },
-                {
-                    "alias": "turkish",
-                    "title": "Turkish"
-                },
-                {
-                    "alias": "mediterranean",
-                    "title": "Mediterranean"
-                }
-            ],
-            "rating": 3.5,
-            "coordinates": {
-                "latitude": 42.280648,
-                "longitude": -83.749275
+                "latitude": 34.106215,
+                "longitude": -118.28776
             },
             "transactions": [
                 "delivery"
             ],
             "price": "$$",
             "location": {
-                "address1": "112 W Washington St",
+                "address1": "1929 Hillhurst Ave",
                 "address2": "",
                 "address3": "",
-                "city": "Ann Arbor",
-                "zip_code": "48104",
+                "city": "Los Angeles",
+                "zip_code": "90027",
                 "country": "US",
-                "state": "MI",
+                "state": "CA",
                 "display_address": [
-                    "112 W Washington St",
-                    "Ann Arbor, MI 48104"
+                    "1929 Hillhurst Ave",
+                    "Los Angeles, CA 90027"
                 ]
             },
-            "phone": "+17347692020",
-            "display_phone": "(734) 769-2020",
-            "distance": 1256.4254430073663
+            "phone": "+13236440100",
+            "display_phone": "(323) 644-0100",
+            "distance": 5838.381618743185
         },
         {
-            "id": "xjCixX7luZm3_mR4mXl79w",
-            "alias": "jerusalem-garden-ann-arbor-2",
-            "name": "Jerusalem Garden",
-            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/3J72AC9ioIyUIwMQ_a_b2A/o.jpg",
+            "id": "IMoMSsC3oDqcNZCQXyo8iQ",
+            "alias": "concerto-los-angeles-3",
+            "name": "Concerto",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/W0PtAkmnwrk0wf7bcwOoDA/o.jpg",
             "is_closed": false,
-            "url": "https://www.yelp.com/biz/jerusalem-garden-ann-arbor-2?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
-            "review_count": 269,
+            "url": "https://www.yelp.com/biz/concerto-los-angeles-3?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
+            "review_count": 1386,
             "categories": [
                 {
-                    "alias": "desserts",
-                    "title": "Desserts"
+                    "alias": "bars",
+                    "title": "Bars"
                 },
                 {
-                    "alias": "mideastern",
-                    "title": "Middle Eastern"
+                    "alias": "italian",
+                    "title": "Italian"
                 },
                 {
-                    "alias": "falafel",
-                    "title": "Falafel"
+                    "alias": "korean",
+                    "title": "Korean"
                 }
             ],
             "rating": 4.0,
             "coordinates": {
-                "latitude": 42.2792053222656,
-                "longitude": -83.7454223632812
+                "latitude": 34.063071,
+                "longitude": -118.306414
             },
             "transactions": [
-                "pickup",
-                "delivery"
+                "delivery",
+                "pickup"
             ],
             "price": "$$",
             "location": {
-                "address1": "314 E Liberty St",
+                "address1": "610 S Serrano Ave",
                 "address2": "",
                 "address3": "",
-                "city": "Ann Arbor",
-                "zip_code": "48104",
+                "city": "Los Angeles",
+                "zip_code": "90005",
                 "country": "US",
-                "state": "MI",
+                "state": "CA",
                 "display_address": [
-                    "314 E Liberty St",
-                    "Ann Arbor, MI 48104"
+                    "610 S Serrano Ave",
+                    "Los Angeles, CA 90005"
                 ]
             },
-            "phone": "+17349955060",
-            "display_phone": "(734) 995-5060",
-            "distance": 920.5845378998179
+            "phone": "+12137380909",
+            "display_phone": "(213) 738-0909",
+            "distance": 1383.8941961847484
         },
         {
-            "id": "ymDHWlqyOi0FgrSLo1jpkg",
-            "alias": "gandy-dancer-ann-arbor-2",
-            "name": "Gandy Dancer",
-            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/2pAukIb1TiCG8gzQrXNy3g/o.jpg",
+            "id": "Q3pwRtT8v8oTCKFEYJgCbg",
+            "alias": "cassells-hamburgers-los-angeles-2",
+            "name": "Cassell's Hamburgers",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/bFM8O7BGe8eqcp8F8cMkOQ/o.jpg",
             "is_closed": false,
-            "url": "https://www.yelp.com/biz/gandy-dancer-ann-arbor-2?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
-            "review_count": 547,
+            "url": "https://www.yelp.com/biz/cassells-hamburgers-los-angeles-2?adjust_creative=HcoZctyefFI7pNoOPgbadw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=HcoZctyefFI7pNoOPgbadw",
+            "review_count": 1819,
             "categories": [
                 {
-                    "alias": "seafood",
-                    "title": "Seafood"
+                    "alias": "tradamerican",
+                    "title": "American (Traditional)"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
                 },
                 {
                     "alias": "breakfast_brunch",
                     "title": "Breakfast & Brunch"
                 }
             ],
-            "rating": 3.5,
+            "rating": 4.5,
             "coordinates": {
-                "latitude": 42.2872135476824,
-                "longitude": -83.7416808912894
+                "latitude": 34.06333,
+                "longitude": -118.30072
             },
             "transactions": [
-                "pickup",
-                "delivery"
+                "delivery",
+                "pickup"
             ],
-            "price": "$$$",
+            "price": "$$",
             "location": {
-                "address1": "401 Depot St",
-                "address2": "",
+                "address1": "3600 W 6th St",
+                "address2": null,
                 "address3": "",
-                "city": "Ann Arbor",
-                "zip_code": "48104",
+                "city": "Los Angeles",
+                "zip_code": "90020",
                 "country": "US",
-                "state": "MI",
+                "state": "CA",
                 "display_address": [
-                    "401 Depot St",
-                    "Ann Arbor, MI 48104"
+                    "3600 W 6th St",
+                    "Los Angeles, CA 90020"
                 ]
             },
-            "phone": "+17347690592",
-            "display_phone": "(734) 769-0592",
-            "distance": 1590.9205644327137
+            "phone": "+12133875502",
+            "display_phone": "(213) 387-5502",
+            "distance": 1924.2230092100237
         }
     ],
-    "total": 1100,
+    "total": 15000,
     "region": {
         "center": {
-            "longitude": -83.73779296875,
-            "latitude": 42.273198186303375
+            "longitude": -118.32138061523438,
+            "latitude": 34.0615895441259
         }
     }
 }
