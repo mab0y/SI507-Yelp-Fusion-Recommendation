@@ -6,7 +6,7 @@ This is a web application that utilizes the Yelp Fusion API to provide restauran
 
 - Python 3.x
 - Yelp Fusion API key
-- Required Python packages: requests, json, wordcloud, matplotlib, flask
+- Required Python packages: requests, wordcloud, matplotlib, flask
 
 ## Data Structure
 The application utilizes a graph data structure to represent the categories of the businesses. The graph is implemented using a dictionary in the main.py file, where each key is a category and the value is a set of businesses that belong to that category. When the user selects a category from the drop-down menu, the application retrieves the businesses belonging to that category from the graph and displays them to the user.
