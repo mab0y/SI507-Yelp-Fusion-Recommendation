@@ -13,10 +13,11 @@ The application utilizes a graph data structure to represent the categories of t
 
 ## Usage
 
-1. Obtain a Yelp Fusion API key from https://www.yelp.com/developers.
+1. Obtain a Yelp Fusion API key from https://fusion.yelp.com/.
 2. Open API_KEY.py and replace YOUR_API_KEY with your actual API key.
 3. Run the app.py script: `python main.py`.
 4. Access the web application in your web browser at http://localhost:5000/.
 5. Enter a location to retrieve recommendations from Yelp Fusion API.
 6. Filter the businesses based on categories by selecting a category from the drop-down menu and clicking "Filter".
 7. View the word cloud of a business by clicking "View Wordcloud" next to the business name.
+8. Click on the businesss name to visit the business's Yelp page.
